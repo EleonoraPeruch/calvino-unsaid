@@ -1,0 +1,54 @@
+@prefix nif:   <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25>
+a             nif:Context , nif:RFC5147String , nif:Sentence ;
+nif:isString  "This is a sample sentence"^^xsd:string .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,4>
+a                     nif:RFC5147String , nif:Word ;
+nif:anchorOf          "This"^^xsd:string ;
+nif:beginIndex        "0"^^xsd:int ;
+nif:endIndex          "4"^^xsd:int ;
+nif:nextWord          <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=5,7> ;
+nif:sentence	      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> ;
+nif:referenceContext  <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=5,7>
+a                     nif:RFC5147String , nif:Word ;
+nif:anchorOf          "is"^^xsd:string ;
+nif:beginIndex        "5"^^xsd:int ;
+nif:endIndex          "7"^^xsd:int ;
+nif:nextWord          <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=8,9> ;
+nif:previousWord      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,4> ;
+nif:sentence	      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> ;
+nif:referenceContext  <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=8,9>
+a                     nif:RFC5147String , nif:Word ;
+nif:anchorOf          "a"^^xsd:string ;
+nif:beginIndex        "8"^^xsd:int ;
+nif:endIndex          "9"^^xsd:int ;
+nif:nextWord          <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=10,16> ;
+nif:previousWord      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=5,7> ;
+nif:sentence	      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> ;
+nif:referenceContext  <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=10,16>
+a                     nif:RFC5147String , nif:Word ;
+nif:anchorOf          "sample"^^xsd:string ;
+nif:beginIndex        "10"^^xsd:int ;
+nif:endIndex          "16"^^xsd:int ;
+nif:nextWord          <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=17,25> ;
+nif:previousWord      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=8,9> ;
+nif:sentence	      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> ;
+nif:referenceContext  <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> .
+
+<e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=17,25>
+a                     nif:RFC5147String , nif:Word ;
+nif:anchorOf          "sentence"^^xsd:string ;
+nif:beginIndex        "17"^^xsd:int ;
+nif:endIndex          "25"^^xsd:int ;
+nif:previousWord      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=10,16> ;
+nif:sentence	      <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> ;
+nif:referenceContext  <e899ea51-fb30-4102-8cdd-9d0ec691a0db#char=0,25> .
