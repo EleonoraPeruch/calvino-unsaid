@@ -1,0 +1,4265 @@
+@prefix ns1: <http://fginter.github.io/docs/u/dep/all.html#al-u-dep/> .
+
+"""
+""" ns1:ROOT """
+""" ;
+    ns1:acl:relcl "cercava",
+        "libera" ;
+    ns1:advcl "sentire",
+        "sperare" ;
+    ns1:amod "nuovissime" ;
+    ns1:ccomp "Andiamo",
+        "assume",
+        "situato" ;
+    ns1:conj "Ariel",
+        "coloro",
+        "credeva",
+        "mette",
+        "proietto",
+        "spiega" ;
+    ns1:flat:name "Newton",
+        "Ovidio",
+        "agilissime",
+        "intercambiabili",
+        "m’",
+        "rumorosa",
+        "épanouis" ;
+    ns1:nmod "ragnatela" ;
+    ns1:nsubj "comico" ;
+    ns1:obj "Cercavo",
+        "Pieno",
+        "Uno",
+        "cesoiuzze",
+        "corteccia",
+        "fermarsi",
+        "fuga",
+        "inguini",
+        "macchine",
+        "pietrificazione",
+        "sfondo",
+        "vincitore" ;
+    ns1:obl "cimitero",
+        "muovermi",
+        "poesia",
+        "situo" .
+
+"""
+
+   """ ns1:nummod "3" ;
+    ns1:punct "…" .
+
+"""
+
+    """ ns1:ROOT """
+
+    """ ;
+    ns1:advcl "pensiamo" .
+
+"""
+   """ ns1:ccomp "scegliere" ;
+    ns1:conj "lontan",
+        "pendevi",
+        "queta" ;
+    ns1:fixed "Ecco",
+        "Prima",
+        "momenti",
+        "traces" ;
+    ns1:nummod "1" ;
+    ns1:punct "cover",
+        "incontro" .
+
+"""
+    """ ns1:nmod "Voyage" .
+
+"114" ns1:ROOT "114" ;
+    ns1:compound "124" .
+
+"123" ns1:ROOT "123" .
+
+"30" ns1:ROOT "30" .
+
+"374" ns1:ROOT "374" ;
+    ns1:compound "376" .
+
+"381" ns1:ROOT "381" ;
+    ns1:compound "390" .
+
+"740" ns1:compound "752" .
+
+"Abituato" ns1:ROOT "Abituato" .
+
+"Adimari" ns1:amod "infino" .
+
+"Alla" ns1:flat:name "precarietà" .
+
+"Alle" ns1:flat:name "origini" .
+
+"Angling" ns1:flat:name "Rods" .
+
+"Antoine" ns1:flat:name "Galland" .
+
+"Ars" ns1:ROOT "Ars" ;
+    ns1:flat:name "Magna" ;
+    ns1:nmod "Ramòn" .
+
+"As" ns1:flat:name "It",
+        "Like",
+        "You" .
+
+"Aussi" ns1:amod "bien" .
+
+"Beast" ns1:nmod "Jungle" .
+
+"Bee" ns1:nmod "two" .
+
+"Bergerac" ns1:case "de" .
+
+"Biltà" ns1:ROOT "Biltà" ;
+    ns1:conj "cavalieri" .
+
+"Boccaccio" ns1:amod "grandi" ;
+    ns1:conj "Rabelais" .
+
+"Bruno" ns1:ROOT "Bruno" .
+
+"Capuleti" ns1:conj "Montecchi" .
+
+"Cavalcanti" ns1:acl:relcl "volteggia" .
+
+"Cercavo" ns1:acl "cogliere" .
+
+"Ciò" ns1:acl:relcl "interessa" .
+
+"Così" ns1:ROOT "Così" .
+
+"Credo" ns1:ROOT "Credo" ;
+    ns1:xcomp "antropologica" .
+
+"Cupido" ns1:conj "levati" .
+
+"Cyrano" ns1:ROOT "Cyrano" ;
+    ns1:ccomp "celebra" ;
+    ns1:flat:name "Bergerac" ;
+    ns1:obj "figura" ;
+    ns1:obl "modo" .
+
+"Dante" ns1:obj "avverbio" .
+
+"De" ns1:flat:name "rerum" ;
+    ns1:nmod "natura" .
+
+"Dedicherò" ns1:ROOT "Dedicherò" .
+
+"Der" ns1:ROOT "Der" ;
+    ns1:flat:name "Kübelreiter" .
+
+"Divina" ns1:flat:name "Commedia" .
+
+"Dolce" ns1:conj "chiara" .
+
+"Don" ns1:acl:relcl "infilza" ;
+    ns1:flat:name "Quijote" .
+
+"Ecco" ns1:advcl "riuscire" .
+
+"Emily" ns1:flat:name "Dickinson" .
+
+"Era" ns1:ROOT "Era" ;
+    ns1:ccomp "sfuggire" .
+
+"Forzando" ns1:obj "contrapposizione" .
+
+"Francia" ns1:ROOT "Francia" .
+
+"Francis" ns1:flat:name "Yates" .
+
+"Friar" ns1:flat:name "Laurence" .
+
+"Galileo" ns1:advmod "Anche" .
+
+"Galleries" ns1:case "of" ;
+    ns1:conj "Stairs" .
+
+"Gallery" ns1:flat:name "I",
+        "beheld" .
+
+"Gianfranco" ns1:ROOT "Gianfranco" ;
+    ns1:flat:name "Contini" .
+
+"Graie" ns1:ROOT "Graie" ;
+    ns1:nmod "occhio" .
+
+"Gustave" ns1:flat:name "Doré" .
+
+"Henry" ns1:flat:name "James" .
+
+"Her" ns1:ROOT "Her" ;
+    ns1:flat:name "waggon",
+        "whip" ;
+    ns1:parataxis "spokes" .
+
+"Homme" ns1:ROOT "Homme" .
+
+"Ineluttabile" ns1:nmod "Pesantezza" .
+
+"Insomma" ns1:ROOT "Insomma" .
+
+"It" ns1:flat:name "these" ;
+    ns1:nmod "depths" .
+
+"Jaques" ns1:ROOT "Jaques" ;
+    ns1:nmod "As" .
+
+"Je" ns1:ROOT "Je" ;
+    ns1:flat:foreign "lève" ;
+    ns1:nmod "terre" .
+
+"Lascio" ns1:ROOT "Lascio" .
+
+"Leggerezza" ns1:amod "Insostenibile" .
+
+"Leopardi" ns1:ROOT "Leopardi" .
+
+"Luciano" ns1:ROOT "Luciano" ;
+    ns1:conj "Ludovico" ;
+    ns1:nmod "Samosata" .
+
+"Lucifero" ns1:amod "bituminoso" ;
+    ns1:nmod "Montale" .
+
+"Lucrezio" ns1:ROOT "Lucrezio" ;
+    ns1:advmod "già" .
+
+"Ludovico" ns1:flat:name "Ariosto" .
+
+"Lune" ns1:case "dans" .
+
+"Ma" ns1:ROOT "Ma" ;
+    ns1:punct "eroe" .
+
+"Medusa" ns1:amod "fragile" ;
+    ns1:conj "Lucifero" .
+
+"Melancholy" ns1:nmod "Klibansky" .
+
+"Melanconia" ns1:conj "humour" .
+
+"Mercuzio" ns1:acl:relcl "detto" ;
+    ns1:flat:name "contraddice" .
+
+"Mille" ns1:conj "Notte" .
+
+"Montagne" ns1:case "oltre" ;
+    ns1:det "delle" ;
+    ns1:nmod "Ghiaccio" .
+
+"Nella" ns1:ROOT "Nella" ;
+    ns1:amod "bassa" ;
+    ns1:flat:name "Vita" ;
+    ns1:obj "trattazione" .
+
+"Nelle" ns1:ROOT "Nelle" ;
+    ns1:nsubj "dramatis" .
+
+"No" ns1:ROOT "No" .
+
+"Notte" ns1:nmod "Antoine" .
+
+"Panofsky" ns1:ROOT "Panofsky" .
+
+"Paradiso" ns1:amod "III" .
+
+"Paul" ns1:flat:name "Valéry" .
+
+"Penso" ns1:ROOT "Penso" ;
+    ns1:ccomp "posso" .
+
+"People" ns1:case "some" ;
+    ns1:flat:name "Angling",
+        "fishing",
+        "long",
+        "with" .
+
+"Perseo" ns1:flat:name "abbandona" ;
+    ns1:xcomp "cavalcare" .
+
+"Piccolo" ns1:ROOT "Piccolo" ;
+    ns1:flat:name "testamento" .
+
+"Pico" ns1:flat:name "Mirandola" .
+
+"Pieno" ns1:nmod "volontà" .
+
+"Pitagora" ns1:case "secondo" .
+
+"Poi" ns1:ROOT "Poi" ;
+    ns1:flat:name "Leibniz" .
+
+"Propp" ns1:flat:name "Morfologia" .
+
+"Puck" ns1:conj "fantasmagoria" .
+
+"Queen" ns1:ROOT "Queen" .
+
+"Ramòn" ns1:flat:name "Llull" .
+
+"Regina" ns1:flat:name "Mab" .
+
+"Resta" ns1:ROOT "Resta" ;
+    ns1:advmod "ancora" ;
+    ns1:nsubj "filo" .
+
+"Rinascimento" ns1:amod "italiano",
+        "shakespeariano" ;
+    ns1:flat:name "Cardano" .
+
+"Ritroviamo" ns1:ROOT "Ritroviamo" ;
+    ns1:obj "parità" .
+
+"San" ns1:flat:name "Giovanni",
+        "Michele" .
+
+"Santa" ns1:advmod "oggi" ;
+    ns1:flat:name "Reparata" .
+
+"Saturn" ns1:conj "Melancholy" .
+
+"Saturno" ns1:flat:name "Terra" .
+
+"Saxl" ns1:ROOT "Saxl" .
+
+"Seguace" ns1:ROOT "Seguace" ;
+    ns1:nsubj "sensismo" .
+
+"Signori" ns1:ROOT "Signori" .
+
+"Sorgi" ns1:ROOT "Sorgi" ;
+    ns1:nmod "sera" .
+
+"Straordinario" ns1:ROOT "Straordinario" ;
+    ns1:case """
+      """ ;
+    ns1:flat:name "scrittore" .
+
+"Sul" ns1:flat:name "rapporto" .
+
+"Swift" ns1:nummod """
+
+   """ .
+
+"Under" ns1:ROOT "Under" ;
+    ns1:advcl "sprofondo" ;
+    ns1:appos "heavy" ;
+    ns1:obj "love" .
+
+"Uno" ns1:nmod "essi" .
+
+"Va" ns1:ROOT "Va" .
+
+"Vita" ns1:amod "nuova" .
+
+"Vorrei" ns1:ccomp "conservaste" .
+
+"Vous" ns1:nummod """
+
+
+      """ .
+
+"Voyage" ns1:nmod "Lune" .
+
+"above" ns1:ROOT "above" ;
+    ns1:advcl "innamorato" ;
+    ns1:nsubj "borrow" ;
+    ns1:obl "common" .
+
+"accettava" ns1:ROOT "accettava" ;
+    ns1:advcl "sospettata" .
+
+"accezioni" ns1:amod "diverse" ;
+    ns1:nummod "tre" .
+
+"accinge" ns1:ROOT "accinge" .
+
+"accompagnano" ns1:ROOT "accompagnano" ;
+    ns1:obj "fortuna" .
+
+"accompagnasse" ns1:advmod "fin" ;
+    ns1:obl "soglia" .
+
+"accontentarlo" ns1:case "ad" .
+
+"accorge" ns1:ROOT "accorge" ;
+    ns1:ccomp "trasformandosi" .
+
+"accorgiamo" ns1:advcl "camminiamo" .
+
+"accorrono" ns1:ROOT "accorrono" ;
+    ns1:conj "avvicinano" .
+
+"accorto" ns1:ROOT "accorto" ;
+    ns1:advmod "Presto" .
+
+"accusa" ns1:ROOT "accusa" ;
+    ns1:acl "celare" ;
+    ns1:ccomp "mosse" .
+
+"acheminant" ns1:ROOT "acheminant" ;
+    ns1:flat:name "au",
+        "dessein" .
+
+"acqua" ns1:ROOT "acqua" ;
+    ns1:amod "cupa" ;
+    ns1:appos "Paradiso" ;
+    ns1:det "sott’" .
+
+"acquista" ns1:ROOT "acquista" .
+
+"adeguamento" ns1:ROOT "adeguamento" ;
+    ns1:nsubj "varietà" .
+
+"admirée" ns1:amod "toujours" ;
+    ns1:nmod "étourdi" .
+
+"adornarsi" ns1:nmod "coralli" .
+
+"affacceremo" ns1:ROOT "affacceremo" ;
+    ns1:expl "ci" ;
+    ns1:nsubj "millennio" .
+
+"affaccia" ns1:advmod "appena" ;
+    ns1:case "s’" .
+
+"affatto" ns1:det "niente" .
+
+"affonda" ns1:conj "scompare" .
+
+"aggettivo" ns1:ROOT "aggettivo" ;
+    ns1:advmod "Invece" ;
+    ns1:amod "bianca" .
+
+"agglomerare" ns1:ROOT "agglomerare" ;
+    ns1:conj "sfilacciare" .
+
+"aggressiva" ns1:ROOT "aggressiva" .
+
+"agilità" ns1:acl:relcl "animasse" ;
+    ns1:amod "scattante" .
+
+"agisce" ns1:ROOT "agisce" .
+
+"agitata" ns1:obj "passione" .
+
+"agli" ns1:advmod "naturalmente" ;
+    ns1:amod "mezzo" ;
+    ns1:flat:foreign "esseri" .
+
+"ai" ns1:flat:name "bits",
+        "corpi" .
+
+"ait" ns1:aux "n’" ;
+    ns1:nsubj "pas" .
+
+"aiuto" ns1:conj "egoismo" .
+
+"al" ns1:flat:name "biancheggiar",
+        "contrario",
+        "linguaggio",
+        "semplice",
+        "sistema",
+        "sogno",
+        "sole",
+        "verbo" .
+
+"aleggia" ns1:ROOT "aleggia" .
+
+"alfabeto" ns1:amod "nell’" .
+
+"ali" ns1:acl:relcl "cala" ;
+    ns1:nmod "bitume" .
+
+"all" ns1:ROOT "all" ;
+    ns1:acl:relcl "toccata" ;
+    ns1:flat:name "pervading",
+        "sventurato" ;
+    ns1:obj "while" .
+
+"alla" ns1:amod "ramoscelli" ;
+    ns1:compound "felicità",
+        "forza" ;
+    ns1:flat:name "ballata",
+        "costruzione",
+        "fantasia",
+        "legge",
+        "mitologia",
+        "rinfusa" ;
+    ns1:nmod "speculazione",
+        "suggestione" .
+
+"alle" ns1:nmod "Muse" .
+
+"alleggerimento" ns1:ROOT "alleggerimento" .
+
+"allungarsi" ns1:ROOT "allungarsi" ;
+    ns1:conj "mettersi" .
+
+"altezza" ns1:amod "grande" ;
+    ns1:conj "profondità" ;
+    ns1:det "all’" .
+
+"alto" ns1:advmod "troppo" ;
+    ns1:obl "salto" .
+
+"altra" ns1:acl:relcl "dispiega" .
+
+"altri" ns1:acl:relcl "stavano" ;
+    ns1:cc "ed" ;
+    ns1:det "degli" .
+
+"altro" ns1:amod "simile" .
+
+"altronde" ns1:ROOT "altronde" .
+
+"ammirare" ns1:advcl "sapessimo" ;
+    ns1:aux "potremmo" ;
+    ns1:csubj "ammirare" .
+
+"ammiratore" ns1:ROOT "ammiratore" ;
+    ns1:nsubj "Voltaire" .
+
+"amore" ns1:ROOT "amore" ;
+    ns1:nmod "Cavalcanti",
+        "filosofia" .
+
+"ampliare" ns1:obj "giro" .
+
+"an" ns1:nmod "empty" .
+
+"angoscia" ns1:nmod "rimirarti" .
+
+"anima" ns1:amod "individuale",
+        "intellettiva",
+        "sensitiva" .
+
+"anni" ns1:acl:relcl "scrivo" ;
+    ns1:advmod "dopo" ;
+    ns1:amod "tardi" ;
+    ns1:case "Dopo" ;
+    ns1:nummod "centocinquant’",
+        "quarant’",
+        "quindici" .
+
+"annullando" ns1:obj "corpo" .
+
+"annullata" ns1:obl "istante" .
+
+"antropologica" ns1:advmod "costante" ;
+    ns1:obj "nesso" .
+
+"apar" ns1:ROOT "apar" ;
+    ns1:obj "albore" .
+
+"ape" ns1:ROOT "ape" .
+
+"aperte" ns1:nsubj "vie" .
+
+"aperto" ns1:ROOT "aperto" ;
+    ns1:aux "aveva" ;
+    ns1:obj "orizzonti" ;
+    ns1:obl "inizi" .
+
+"appare" ns1:nummod "9" ;
+    ns1:punct "[",
+        "]" .
+
+"apparire" ns1:obj "frivolezza" .
+
+"apparizione" ns1:nmod "Laputa" .
+
+"apparizioni" ns1:amod "numerose" ;
+    ns1:det "Le" .
+
+"appartengono" ns1:ROOT "appartengono" .
+
+"appartiene" ns1:ROOT "appartiene" .
+
+"appered" ns1:advmod "feel" .
+
+"apprendere" ns1:ROOT "apprendere" ;
+    ns1:advcl "leggendo" ;
+    ns1:nsubj "Sul" .
+
+"apre" ns1:ROOT "apre" ;
+    ns1:nsubj "via" ;
+    ns1:obl "enumerazione",
+        "fine" ;
+    ns1:punct "-" .
+
+"aprendo" ns1:ROOT "aprendo" ;
+    ns1:obj "libro" .
+
+"aprono" ns1:ROOT "aprono" .
+
+"are" ns1:obj "made",
+        "such" ;
+    ns1:xcomp "lover" .
+
+"argento" ns1:ROOT "argento" .
+
+"aria" ns1:advmod "Già" ;
+    ns1:amod "imbruna",
+        "vertiginosa" ;
+    ns1:case "attraverso" ;
+    ns1:det:predet "tutta" ;
+    ns1:nmod "quand’" .
+
+"arma" ns1:ROOT "arma" ;
+    ns1:amod "invincibile" .
+
+"arnesi" ns1:advcl "far" ;
+    ns1:amod "domestici",
+        "umili" ;
+    ns1:case "su" .
+
+"arriva" ns1:ROOT "arriva" ;
+    ns1:xcomp "appesantire",
+        "proclamare" .
+
+"arrêtée" ns1:ROOT "arrêtée" ;
+    ns1:nsubj "former",
+        "pierre" .
+
+"aspetti" ns1:amod "dissimili",
+        "visibili" .
+
+"aspetto" ns1:det "nessun" .
+
+"assalto" ns1:amod "sollazzevole" .
+
+"assenza" ns1:det:poss "sua" .
+
+"associa" ns1:ROOT "associa" ;
+    ns1:obl "precisione" .
+
+"assuma" ns1:obj "valore" .
+
+"assume" ns1:obl "fardello" .
+
+"assumere" ns1:ROOT "assumere" ;
+    ns1:obj "rarefatta" .
+
+"astratto" ns1:acl:relcl "intervengono" .
+
+"astrazione" ns1:amod "sospesa" .
+
+"astronomia" ns1:nmod "Copernico",
+        "erudizione" .
+
+"at" ns1:ROOT "at" ;
+    ns1:flat:name "certain",
+        "intervals" .
+
+"atomi" ns1:ROOT "atomi" ;
+    ns1:amod "impalpabili",
+        "inalterabili" ;
+    ns1:nsubj "lettere" ;
+    ns1:obl "movimento" .
+
+"atomismo" ns1:ROOT "atomismo" ;
+    ns1:nmod "poeta" .
+
+"atto" ns1:amod "IV" .
+
+"au" ns1:nmod "gré" .
+
+"automobili" ns1:amod "arrugginite" .
+
+"autoparodia" ns1:ROOT "autoparodia" ;
+    ns1:amod "evidente" .
+
+"autori" ns1:ROOT "autori" ;
+    ns1:conj "nessuno" ;
+    ns1:det "molti" .
+
+"avanzata" ns1:obj "persone" .
+
+"avatars" ns1:amod "tanti" .
+
+"aver" ns1:obj "fretta" .
+
+"avuti" ns1:ROOT "avuti" .
+
+"avuto" ns1:ROOT "avuto" ;
+    ns1:advmod "sempre" ;
+    ns1:aux "abbiano" ;
+    ns1:obj "autore",
+        "potere" .
+
+"avvedesse" ns1:ROOT "avvedesse" .
+
+"avvenne" ns1:ROOT "avvenne" ;
+    ns1:advmod "Ora" ;
+    ns1:obl "giorno" .
+
+"avventure" ns1:ROOT "avventure" ;
+    ns1:nmod "Münchausen" .
+
+"avvicinare" ns1:ROOT "avvicinare" ;
+    ns1:nsubj "Quel" .
+
+"avvolgere" ns1:obl "nodi" .
+
+"avvolgono" ns1:advcl "accorgiamo" .
+
+"azzurro" ns1:conj "n" .
+
+"bagliore" ns1:acl "strofinato" ;
+    ns1:amod "tenue" .
+
+"balia" ns1:ROOT "balia" .
+
+"bassa" ns1:obl "gallerie" .
+
+"basta" ns1:ROOT "basta" ;
+    ns1:advcl "inseguendo" ;
+    ns1:obl "assicurarmi" .
+
+"bastano" ns1:cc "ma" ;
+    ns1:xcomp "illuminare" .
+
+"battuta" ns1:ROOT "battuta" ;
+    ns1:acl "attribuita" .
+
+"bianca" ns1:flat:name "scender" .
+
+"bibula" ns1:flat:name "harena" .
+
+"binario" ns1:acl "obbligato" .
+
+"bisogna" ns1:ROOT "bisogna" .
+
+"bisogno" ns1:acl "permettere",
+        "spiegare" ;
+    ns1:nmod "considerarlo" .
+
+"bits" ns1:nmod "flusso" .
+
+"bone" ns1:punct "’s" .
+
+"borrow" ns1:flat:name "Cupid" .
+
+"brezza" ns1:ROOT "brezza" .
+
+"bridged" ns1:flat:name "over" .
+
+"brigata" ns1:nmod "caval" .
+
+"brouillèe" ns1:ROOT "brouillèe" ;
+    ns1:flat:name "pêle" ;
+    ns1:nmod "mêle" .
+
+"buia" ns1:nsubj "contrappone" .
+
+"but" ns1:ROOT "but" ;
+    ns1:ccomp "is" .
+
+"caccerebbe" ns1:obj "mosca" .
+
+"calata" ns1:ROOT "calata" ;
+    ns1:nmod "abisso" .
+
+"calmo" ns1:amod "incantesimo" .
+
+"cambia" ns1:conj "muove" ;
+    ns1:obj "incessantemente" .
+
+"cambiare" ns1:obj "approccio" .
+
+"campionario" ns1:ROOT "campionario" ;
+    ns1:nsubj "bellezze" .
+
+"campo" ns1:nmod "impulsi" .
+
+"cancellano" ns1:ROOT "cancellano" ;
+    ns1:obl "atmosfera" .
+
+"canta" ns1:obl "finestra" .
+
+"cantar" ns1:ROOT "cantar" ;
+    ns1:conj "ragionar" ;
+    ns1:nmod "augelli" .
+
+"capaci" ns1:cop "saremo" ;
+    ns1:nsubj "che" ;
+    ns1:obl "portarvi" .
+
+"caper" ns1:nmod "trees" .
+
+"capitato" ns1:ROOT "capitato" ;
+    ns1:xcomp "fare" .
+
+"capolavoro" ns1:nmod "Gustave" .
+
+"caput" ns1:advmod "anguiferumque" .
+
+"cara" ns1:cc "O" .
+
+"caratterizzano" ns1:ROOT "caratterizzano" ;
+    ns1:nsubj "Melanconia" ;
+    ns1:obj "accento" .
+
+"carbone" ns1:advmod "po’" ;
+    ns1:amod "scadente" .
+
+"carico" ns1:ROOT "carico" ;
+    ns1:acl:relcl "sciuparlo" ;
+    ns1:nmod "suggestioni" .
+
+"carovana" ns1:amod "deserto" .
+
+"casa" ns1:ROOT "casa" ;
+    ns1:advcl "vinta" ;
+    ns1:amod "vostra" ;
+    ns1:nsubj "tombe" .
+
+"casi" ns1:amod "estremi" .
+
+"categorico" ns1:ROOT "categorico" ;
+    ns1:amod "imperativo" ;
+    ns1:nsubj "dovere" .
+
+"catturare" ns1:ROOT "catturare" ;
+    ns1:obj "livelli" .
+
+"catturata" ns1:ROOT "catturata" .
+
+"cavalcare" ns1:obj "Pegaso" .
+
+"cavalcava" ns1:ROOT "cavalcava" ;
+    ns1:nsubj "fiorentina" .
+
+"cavaliere" ns1:advmod "errante" ;
+    ns1:obj "suo" ;
+    ns1:punct "(",
+        ")" .
+
+"cavalieri" ns1:acl:relcl "sien" ;
+    ns1:amod "armati" .
+
+"cavalli" ns1:ROOT "cavalli" ;
+    ns1:flat:name "volanti" .
+
+"cavallo" ns1:ROOT "cavallo" ;
+    ns1:amod "alato",
+        "tirandosi" ;
+    ns1:case "a",
+        "da" ;
+    ns1:nmod "secchio" .
+
+"cavolo" ns1:acl:relcl "sta" .
+
+"celtic" ns1:flat:name "lore" .
+
+"cent" ns1:compound "coups" ;
+    ns1:flat:name "fois",
+        "milions" .
+
+"centocinquant’" ns1:advmod "quasi" .
+
+"cercando" ns1:ROOT "cercando" ;
+    ns1:obj "occasioni" ;
+    ns1:xcomp "ampliare" .
+
+"cercare" ns1:obj "impassibilità",
+        "resurrezione" .
+
+"cercata" ns1:aux:pass "vada" ;
+    ns1:nsubj:pass "necessità" .
+
+"cercato" ns1:ROOT "cercato" ;
+    ns1:aux "ha" ;
+    ns1:nsubj "conferenza",
+        "virtù" ;
+    ns1:punct "." ;
+    ns1:xcomp "illustrare" .
+
+"cercavo" ns1:ROOT "cercavo" ;
+    ns1:obj "energia" ;
+    ns1:obl "immedesimarmi" .
+
+"cercherò" ns1:ROOT "cercherò" .
+
+"cerchi" ns1:obj "definizione" .
+
+"cerco" ns1:ROOT "cerco" ;
+    ns1:obl "alimento" .
+
+"cesoiuzze" ns1:conj "coltellin" .
+
+"cette" ns1:ROOT "cette" ;
+    ns1:amod "chose" .
+
+"change" ns1:ROOT "change" ;
+    ns1:advcl "remue" ;
+    ns1:nsubj "infinie" .
+
+"che" ns1:flat:name "May" ;
+    ns1:nsubj "opposto" ;
+    ns1:punct "avrai" .
+
+"cher" ns1:flat:name "frère" .
+
+"chi" ns1:acl:relcl "innalza",
+        "merita" .
+
+"chiesa" ns1:case "davanti" .
+
+"chioma" ns1:amod "serpenti" .
+
+"chiudere" ns1:ROOT "chiudere" ;
+    ns1:advcl "ricordando" ;
+    ns1:aux "Vorrei" .
+
+"ciel" ns1:ROOT "ciel" .
+
+"cielo" ns1:acl:relcl "ispirerà" ;
+    ns1:amod "notturno" .
+
+"cimitero" ns1:nmod "automobili" .
+
+"cinti" ns1:amod "fianchi" ;
+    ns1:nmod "serie" .
+
+"cipria" ns1:advcl "lampada" ;
+    ns1:nmod "Conservane" .
+
+"citato" ns1:ROOT "citato" ;
+    ns1:aux "Ho" ;
+    ns1:obj "Metamorfosi" .
+
+"città" ns1:ROOT "città" ;
+    ns1:acl "insanguinate" ;
+    ns1:acl:relcl "passavano" ;
+    ns1:nmod "brigate" .
+
+"civiltà" ns1:amod "vicini" .
+
+"ciò" ns1:acl:relcl "aggiungiamo",
+        "colpisce",
+        "costituisce",
+        "esiste",
+        "mettono",
+        "minuto",
+        "piace",
+        "rivelarglisi" .
+
+"codificate" ns1:nsubj:pass "inquisitori" .
+
+"cogliere" ns1:obj "sintonia" .
+
+"coi" ns1:amod "miti" .
+
+"colate" ns1:obl "acciaio" .
+
+"collars" ns1:ROOT "collars" ;
+    ns1:det "The" .
+
+"colle" ns1:amod "pien" .
+
+"collega" ns1:obj "Luna" .
+
+"collettive" ns1:conj "individuali" .
+
+"colonne" ns1:ROOT "colonne" ;
+    ns1:amod "porfido",
+        "tralle" .
+
+"colpi" ns1:nmod "dadi",
+        "spada" ;
+    ns1:nummod "cento" .
+
+"colpo" ns1:ROOT "colpo" ;
+    ns1:nmod "zoccolo" .
+
+"coltellin" ns1:amod "dolente" .
+
+"colui" ns1:advmod "sì" .
+
+"combinatoria" ns1:acl:relcl "determina" ;
+    ns1:nmod "unità" .
+
+"cometa" ns1:ROOT "cometa" ;
+    ns1:advmod "ora" .
+
+"comico" ns1:acl:relcl "perso" .
+
+"cominci" ns1:nsubj "concetto" ;
+    ns1:xcomp "precisarsi" .
+
+"comincia" ns1:obj "diversità" .
+
+"cominciato" ns1:aux "avevo" ;
+    ns1:xcomp "svolgere" .
+
+"comme" ns1:obj "plume" .
+
+"commenti" ns1:conj "interpretazioni" .
+
+"common" ns1:amod "bound",
+        "summer" .
+
+"commozione" ns1:amod "cosmica" .
+
+"compatta" ns1:ROOT "compatta" ;
+    ns1:amod "melanconia" ;
+    ns1:conj "opaca" .
+
+"compattezza" ns1:ROOT "compattezza" ;
+    ns1:nsubj "dissoluzione" .
+
+"complessiva" ns1:obl "lavoro" .
+
+"complesso" ns1:ROOT "complesso" .
+
+"componimento" ns1:det:predet "tutto" ;
+    ns1:nmod "luce" .
+
+"comporti" ns1:obj "grado" .
+
+"composta" ns1:obl:agent "elementi" .
+
+"compounded" ns1:ROOT "compounded" ;
+    ns1:flat:name "simples" .
+
+"comunicare" ns1:obj "sensazione" .
+
+"concetti" ns1:acl:relcl "trovano" .
+
+"concezione" ns1:amod "atomistica" .
+
+"conchiglie" ns1:ROOT "conchiglie" ;
+    ns1:nsubj "minute" .
+
+"conclusione" ns1:acl:relcl "attende" .
+
+"concreta" ns1:conj "drammatica" .
+
+"concreto" ns1:advmod "altrettanto" .
+
+"condizionamento" ns1:nsubj "ciò" .
+
+"condizione" ns1:ROOT "condizione" ;
+    ns1:nmod "oppressione" .
+
+"conferenza" ns1:det "questa" .
+
+"confronto" ns1:nmod "mostro" .
+
+"connessione" ns1:ROOT "connessione" ;
+    ns1:amod "speciale" .
+
+"connettere" ns1:conj "stregonesca" ;
+    ns1:obj "funzione" ;
+    ns1:obl "immaginario" .
+
+"connettono" ns1:obj "macrocosmo" .
+
+"conoscenza" ns1:conj "verifica" .
+
+"conoscerà" ns1:ROOT "conoscerà" ;
+    ns1:nsubj "secolo" ;
+    ns1:obj "culmine" ;
+    ns1:obl "palla" .
+
+"conseguenze" ns1:obj "predilezione" .
+
+"considerando" ns1:ccomp "epicureismo" .
+
+"considerarlo" ns1:flat:name "esteso" ;
+    ns1:nmod "antropologia" .
+
+"consideri" ns1:obj "ragioni" .
+
+"consistenza" ns1:conj "effetti",
+        "stabilità" .
+
+"constantly" ns1:ROOT "constantly" ;
+    ns1:nmod "spite" ;
+    ns1:nsubj "bridged" ;
+    ns1:obj "oscillation" ;
+    ns1:obl "structure" .
+
+"constatazione" ns1:ROOT "constatazione" ;
+    ns1:acl "Vivere" ;
+    ns1:amod "amara" ;
+    ns1:aux "Essere" ;
+    ns1:nsubj "Ineluttabile" .
+
+"constitué" ns1:ROOT "constitué" ;
+    ns1:nsubj "peut" .
+
+"construction" ns1:flat:name "être" ;
+    ns1:nmod "son" .
+
+"contemplando" ns1:ROOT "contemplando" ;
+    ns1:obj "deserti" .
+
+"contemplare" ns1:conj "dissolverlo" ;
+    ns1:obj "dramma" .
+
+"contemplation" ns1:amod "sundry" ;
+    ns1:nmod "travels" .
+
+"contemplazione" ns1:nmod "cielo" .
+
+"contemporaneo" ns1:ROOT "contemporaneo" ;
+    ns1:conj "avversario" .
+
+"contendono" ns1:nsubj "vocazioni" .
+
+"contenuti" ns1:nsubj "segreti" .
+
+"contese" ns1:acl "insensate" ;
+    ns1:amod "violente" .
+
+"contesto" ns1:ROOT "contesto" ;
+    ns1:nmod "viaggio" ;
+    ns1:nsubj "Tutto" .
+
+"continua" ns1:xcomp "camminare" .
+
+"contraddistinto" ns1:obl:agent "caratteristiche" .
+
+"convogliati" ns1:aux:pass "vengono" ;
+    ns1:nsubj:pass "significati" ;
+    ns1:obl "tessuto" .
+
+"corail" ns1:case "du" .
+
+"corallo" ns1:ROOT "corallo" .
+
+"corda" ns1:acl "tagliata" .
+
+"core" ns1:amod "saccente" .
+
+"corpi" ns1:amod "celesti",
+        "solidi" ;
+    ns1:nmod "nello" .
+
+"corpo" ns1:acl:relcl "affonda" .
+
+"corporeità" ns1:conj "dimensioni" .
+
+"corpuscoli" ns1:amod "invisibili" .
+
+"corre" ns1:obj "circuiti" .
+
+"corridoi" ns1:conj "scalinate" .
+
+"corrisponde" ns1:nsubj "essa" .
+
+"corteccia" ns1:acl "sale" ;
+    ns1:amod "tenera" ;
+    ns1:conj "serra" .
+
+"cosa" ns1:amod "inaspettata" ;
+    ns1:conj "pianta" .
+
+"coscienza" ns1:amod "umana" .
+
+"cose" ns1:amod "lievi",
+        "necessarie" ;
+    ns1:det "tante" ;
+    ns1:det:predet "tutte" ;
+    ns1:nmod "nube" .
+
+"costante" ns1:cop "sia" .
+
+"costava" ns1:obl "sforzo" .
+
+"costituito" ns1:ROOT "costituito" ;
+    ns1:aux "aver" .
+
+"costrizioni" ns1:acl:relcl "finisce" ;
+    ns1:amod "pubbliche" .
+
+"could" ns1:ROOT "could" ;
+    ns1:nmod "sides" .
+
+"court" ns1:punct "..." .
+
+"creata" ns1:ROOT "creata" ;
+    ns1:obl "volta" .
+
+"creavano" ns1:obj "parole" ;
+    ns1:obl "permutazioni" .
+
+"credeva" ns1:xcomp "cercare" .
+
+"cricket" ns1:ROOT "cricket" ;
+    ns1:conj "bone" .
+
+"cui" ns1:case "in" .
+
+"cuore" ns1:ROOT "cuore" ;
+    ns1:conj "mente" .
+
+"dai" ns1:obj "verbi" .
+
+"dal" ns1:compound "folklore" ;
+    ns1:flat:name "ritmo",
+        "scandito" ;
+    ns1:nmod "fuori" .
+
+"dalla" ns1:amod "fisica",
+        "indipendentemente",
+        "presente" ;
+    ns1:cc "anziché" ;
+    ns1:flat:name "Nurse",
+        "bellezza",
+        "dottrina",
+        "lingua",
+        "luogo",
+        "morsa",
+        "sofferenza",
+        "specificazione" ;
+    ns1:obj "corporeità" .
+
+"dalle" ns1:amod "anatre",
+        "favole",
+        "mitologiche" ;
+    ns1:flat:name "sorelle" .
+
+"dance" ns1:ROOT "dance" .
+
+"danzan" ns1:nsubj "lepri" .
+
+"dare" ns1:mark "t" .
+
+"dargli" ns1:amod "briga" .
+
+"data" ns1:ROOT "data" ;
+    ns1:nsubj:pass "ricchezza" .
+
+"dati" ns1:ROOT "dati" ;
+    ns1:det "certi" ;
+    ns1:xcomp "intervalli" .
+
+"de" ns1:conj "courtoisie" ;
+    ns1:flat:name "certaines",
+        "figures",
+        "minéraux",
+        "nous",
+        "voyons",
+        "végétaux" .
+
+"deciso" ns1:ROOT "deciso" ;
+    ns1:ccomp "lasciata" .
+
+"dedicare" ns1:ROOT "dedicare" ;
+    ns1:aux "volevo" ;
+    ns1:obl "momento" .
+
+"definisce" ns1:ROOT "definisce" .
+
+"definito" ns1:advcl "espresse" ;
+    ns1:xcomp "dai" .
+
+"definizione" ns1:amod "complessiva" .
+
+"del" ns1:acl:relcl "imparato" ;
+    ns1:flat:name "Dna",
+        "Principe" ;
+    ns1:nmod "Danimarca" ;
+    ns1:obj "tema" .
+
+"delicatezza" ns1:det "quanta" ;
+    ns1:nmod "animo" .
+
+"della" ns1:advcl "rende",
+        "seguire" ;
+    ns1:amod "calamita",
+        "critica",
+        "famosi",
+        "manico",
+        "molteplicità",
+        "nutrito",
+        "segreto",
+        "stilistica" ;
+    ns1:case "Quanto" ;
+    ns1:ccomp "aperte" ;
+    ns1:compound "fantascienza" ;
+    ns1:conj "europea",
+        "occupano" ;
+    ns1:cop "siamo" ;
+    ns1:flat:name "parrucca" ;
+    ns1:nmod "Gorgone",
+        "Regina" ;
+    ns1:nsubj "Alle",
+        "Dal",
+        "apparizioni",
+        "ottimismo",
+        "polverizzazione",
+        "pulviscolo",
+        "scrittura" ;
+    ns1:nsubj:pass "Rinascimento",
+        "pensosità" ;
+    ns1:obj "assenza",
+        "carnalità",
+        "coscienza",
+        "finimenti",
+        "privazione" ;
+    ns1:obl "funzioni",
+        "reazione",
+        "rifiuto" ;
+    ns1:xcomp "biblioteca",
+        "estende",
+        "fiaba",
+        "processi",
+        "sottile" .
+
+"dello" ns1:conj "misurazione" ;
+    ns1:flat:name "scandaglio" .
+
+"dell’" ns1:amod "invisibile" .
+
+"descrizione" ns1:ROOT "descrizione" ;
+    ns1:acl:relcl "comporti" ;
+    ns1:det "qualunque" .
+
+"destinate" ns1:ROOT "destinate" ;
+    ns1:xcomp "superate" .
+
+"destinato" ns1:xcomp "perire" .
+
+"determina" ns1:obj "forme" .
+
+"determinano" ns1:obj "evento" .
+
+"determinare" ns1:obj "significato" .
+
+"dettaglio" ns1:ROOT "dettaglio" ;
+    ns1:amod "decisivo" .
+
+"detto" ns1:nsubj "Paul" .
+
+"di" ns1:fixed "sopra" .
+
+"dice" ns1:ccomp "concreto" .
+
+"diciamo" ns1:ROOT "diciamo" ;
+    ns1:obj "vissuto" .
+
+"dico" ns1:ROOT "dico" ;
+    ns1:conj "incorporea" .
+
+"didn’" ns1:case "she" .
+
+"difference" ns1:ROOT "difference" ;
+    ns1:case "A" .
+
+"differenza" ns1:ROOT "differenza" ;
+    ns1:det "Una" .
+
+"difficile" ns1:ROOT "difficile" ;
+    ns1:obl "romanziere" .
+
+"dimentichiamo" ns1:ccomp "drawn" .
+
+"dimmi" ns1:ROOT "dimmi" .
+
+"dimostra" ns1:ROOT "dimostra" .
+
+"dimostrando" ns1:ROOT "dimostrando" ;
+    ns1:ccomp "contiene" .
+
+"dimostrare" ns1:aux "voglia" ;
+    ns1:ccomp "regge" .
+
+"dintorno" ns1:ROOT "dintorno" ;
+    ns1:det "molte" .
+
+"dire" ns1:ROOT "dire" ;
+    ns1:advcl "Forzando" ;
+    ns1:aux "Possiamo",
+        "Voglio",
+        "potete",
+        "potrei" ;
+    ns1:ccomp "consideri",
+        "contendono",
+        "investito" .
+
+"direbbe" ns1:ROOT "direbbe" ;
+    ns1:ccomp "condizionamento" ;
+    ns1:expl:impers "Si" .
+
+"dirige" ns1:nsubj "egli" ;
+    ns1:obj "satira" ;
+    ns1:obl "quale" .
+
+"dirmi" ns1:ROOT "dirmi" ;
+    ns1:advmod "Qui" ;
+    ns1:aux "vuol" ;
+    ns1:nsubj "mito" .
+
+"discendere" ns1:ROOT "discendere" ;
+    ns1:aux "poter" ;
+    ns1:obl "corridoio" .
+
+"discesa" ns1:case "durante" .
+
+"discorso" ns1:amod "teorico" ;
+    ns1:det:poss "mio" .
+
+"discussioni" ns1:amod "ultime" .
+
+"dispiega" ns1:obj "doti" .
+
+"dispositivo" ns1:ROOT "dispositivo" ;
+    ns1:acl:relcl "perpetua" ;
+    ns1:amod "antropologico" .
+
+"disse" ns1:ROOT "disse" ;
+    ns1:nsubj "prestamente" .
+
+"dissero" ns1:ROOT "dissero" .
+
+"dissolto" ns1:ROOT "dissolto" ;
+    ns1:obl "entità" .
+
+"dissolve" ns1:ROOT "dissolve" ;
+    ns1:obj "concretezza" ;
+    ns1:obl "esperienza" .
+
+"dita" ns1:nmod "Aracne" .
+
+"divario" ns1:acl:relcl "costava" .
+
+"diventa" ns1:nsubj "spoglia" .
+
+"diventata" ns1:xcomp "leggera" .
+
+"diverse" ns1:advcl "spinge" ;
+    ns1:advmod "completamente" .
+
+"dominato" ns1:ROOT "dominato" .
+
+"dondolio" ns1:ROOT "dondolio" .
+
+"donna" ns1:acl "amata" ;
+    ns1:conj "core" .
+
+"dorso" ns1:ROOT "dorso" ;
+    ns1:punct "“" .
+
+"dotato" ns1:obl "poteri" .
+
+"doti" ns1:amod "ineguagliabili" .
+
+"dottrine" ns1:ROOT "dottrine" ;
+    ns1:nmod "Epicuro" .
+
+"dramatis" ns1:amod "personae",
+        "sospiri" .
+
+"drammi" ns1:amod "shakespeariani" .
+
+"drawn" ns1:acl "scarrozzata" ;
+    ns1:obl "team" .
+
+"dreams" ns1:ROOT "dreams" ;
+    ns1:ccomp "are" .
+
+"dritt’" ns1:ROOT "dritt’" .
+
+"dropping" ns1:ROOT "dropping" ;
+    ns1:nmod "plummet" .
+
+"dubbi" ns1:flat:name "fisicità" .
+
+"dunque" ns1:ROOT "dunque" .
+
+"dura" ns1:ROOT "dura" ;
+    ns1:advcl "sciupi" ;
+    ns1:obl "laedat" .
+
+"dà" ns1:ROOT "dà" ;
+    ns1:nsubj "Dante" ;
+    ns1:obj "immagini",
+        "solidità" .
+
+"désigner" ns1:obj "homme" .
+
+"e" ns1:fixed "l" .
+
+"ecc" ns1:ROOT "ecc" .
+
+"ecco" ns1:ROOT "ecco" .
+
+"egoismo" ns1:advmod "anche" .
+
+"elaborare" ns1:obj "programmi" .
+
+"elementi" ns1:acl:relcl "emblemi" ;
+    ns1:amod "sottilissimi" .
+
+"elencare" ns1:obj "caso",
+        "esempi" .
+
+"eleva" ns1:ROOT "eleva" ;
+    ns1:ccomp "esaudita" ;
+    ns1:iobj "ti" ;
+    ns1:obl "punto" .
+
+"elfi" ns1:conj "fate" ;
+    ns1:nummod "coi" .
+
+"elitre" ns1:nmod "cavalletta" .
+
+"elle" ns1:det "qu’" .
+
+"empty" ns1:flat:name "hazel" ;
+    ns1:nmod "nut" .
+
+"en" ns1:flat:name "est",
+        "graine" .
+
+"encompassed" ns1:ROOT "encompassed" ;
+    ns1:flat:name "several" ;
+    ns1:nmod "Galleries" .
+
+"energia" ns1:acl "spietata" .
+
+"enfants" ns1:obl "en" .
+
+"entità" ns1:acl:relcl "spostano" ;
+    ns1:amod "sottilissime" .
+
+"entrato" ns1:ROOT "entrato" ;
+    ns1:conj "sente" .
+
+"epicureismo" ns1:amod "preteso" .
+
+"epoca" ns1:conj "Juliet" ;
+    ns1:nmod "Cervantes" .
+
+"era" ns1:nsubj "divario" .
+
+"eroe" ns1:amod "capace" ;
+    ns1:det "L’",
+        "dell’",
+        "l’" ;
+    ns1:nmod "racconto" ;
+    ns1:obj "fiabe" .
+
+"erudizione" ns1:amod "straordinaria" .
+
+"esaudita" ns1:aux "potrà" ;
+    ns1:nsubj "preghiera" .
+
+"esca" ns1:obj "pariglia" ;
+    ns1:obl "colpi" .
+
+"esce" ns1:ROOT "esce" ;
+    ns1:nsubj "narratore" ;
+    ns1:obl "stufa" .
+
+"escono" ns1:obl "lampade" .
+
+"esempi" ns1:det "vari" ;
+    ns1:nmod "opere" .
+
+"esempio" ns1:ROOT "esempio" ;
+    ns1:case "per" ;
+    ns1:nmod "parificazione" ;
+    ns1:punct "," .
+
+"esemplificare" ns1:obl "accezioni" .
+
+"esistono" ns1:ROOT "esistono" ;
+    ns1:nsubj "software" .
+
+"esperienza" ns1:amod "tangibile" .
+
+"esperienze" ns1:amod "differenti" ;
+    ns1:nmod "viaggi" .
+
+"esperimenti" ns1:ROOT "esperimenti" ;
+    ns1:acl "condotti" ;
+    ns1:conj "sicuri" ;
+    ns1:nmod "Friar" .
+
+"esplorato" ns1:ROOT "esplorato" ;
+    ns1:conj "compiuto" ;
+    ns1:obj "strade" .
+
+"espresse" ns1:obl "cifre" .
+
+"esprimere" ns1:ROOT "esprimere" ;
+    ns1:aux "osava" .
+
+"esprimono" ns1:ROOT "esprimono" ;
+    ns1:advmod "eppure" ;
+    ns1:obj "concezioni" .
+
+"esser" ns1:obl "brigata" .
+
+"essermi" ns1:acl "soffermato" .
+
+"est" ns1:flat:name "cent",
+        "merveille" ;
+    ns1:nmod "dés" .
+
+"estrarre" ns1:ROOT "estrarre" ;
+    ns1:nsubj "possibilità" .
+
+"eterei" ns1:ROOT "eterei" ;
+    ns1:ccomp "connettono" ;
+    ns1:csubj "conosce" .
+
+"etnologia" ns1:conj "dal" .
+
+"evidenza" ns1:conj "immediatezza" .
+
+"evitare" ns1:ccomp "schiacci" .
+
+"evoca" ns1:ROOT "evoca" ;
+    ns1:obj "scenario" .
+
+"evocare" ns1:ROOT "evocare" ;
+    ns1:obj "Medusa" .
+
+"evocato" ns1:ROOT "evocato" ;
+    ns1:obj "visione" .
+
+"evolvono" ns1:ROOT "evolvono" .
+
+"extracted" ns1:ROOT "extracted" ;
+    ns1:flat:name "objects" .
+
+"fa" ns1:ROOT "fa" ;
+    ns1:advmod "pur" ;
+    ns1:ccomp "scaturire" ;
+    ns1:conj "ritrova" ;
+    ns1:iobj "gli" ;
+    ns1:mark "Come" ;
+    ns1:nsubj "ironia" ;
+    ns1:obj "Boccaccio",
+        "capelli",
+        "meraviglia",
+        "professione",
+        "trasfigurazione",
+        "universo",
+        "velo" ;
+    ns1:obl "Romeo",
+        "commozione",
+        "pagine",
+        "strada",
+        "strapparsi" .
+
+"faccia" ns1:nsubj:pass "qualcosa" ;
+    ns1:obl "lieve" .
+
+"facendone" ns1:ROOT "facendone" .
+
+"fai" ns1:ROOT "fai" ;
+    ns1:ccomp "tagliare" ;
+    ns1:mark "siccome" ;
+    ns1:nsubj "Che" ;
+    ns1:obj "tu" ;
+    ns1:punct "!" .
+
+"faire" ns1:mark "à" .
+
+"fairies" ns1:ROOT "fairies" ;
+    ns1:nmod "midwife" .
+
+"fais" ns1:ROOT "fais" ;
+    ns1:flat:name "trancher" ;
+    ns1:iobj "me" .
+
+"fait" ns1:ROOT "fait" ;
+    ns1:nsubj "mort" ;
+    ns1:xcomp "mérite" .
+
+"fallait" ns1:ROOT "fallait" ;
+    ns1:advcl "désigner" ;
+    ns1:expl "ou" .
+
+"fallu" ns1:ROOT "fallu" ;
+    ns1:conj "ait" ;
+    ns1:nsubj "admirée" ;
+    ns1:obj "elle" .
+
+"fantasia" ns1:amod "occidentale" ;
+    ns1:nmod "fargli" .
+
+"far" ns1:ccomp "apparire",
+        "girare" ;
+    ns1:obj "baldoria",
+        "punta" .
+
+"fare" ns1:aux "dovuto" ;
+    ns1:obj "animali",
+        "elemento",
+        "lungo" .
+
+"farebbe" ns1:obl "lavoraccio" .
+
+"farlo" ns1:nmod "lui" .
+
+"farà" ns1:ROOT "farà" ;
+    ns1:nsubj "sardana" ;
+    ns1:obl "cipria" ;
+    ns1:xcomp "infernale" .
+
+"fasse" ns1:obj "quelque" .
+
+"fatta" ns1:mark "perché" ;
+    ns1:obl "an",
+        "corpuscoli" .
+
+"fatti" ns1:ccomp "prestare" ;
+    ns1:obj "sogni" .
+
+"fatto" ns1:ROOT "fatto" ;
+    ns1:advcl "codificate",
+        "meritare" ;
+    ns1:amod "automa" ;
+    ns1:aux "hanno" ;
+    ns1:nmod "rame" ;
+    ns1:nsubj "Milan",
+        "visioni" ;
+    ns1:obj "parte" ;
+    ns1:obl "evidenza" .
+
+"felicità" ns1:amod "irraggiungibile" .
+
+"ferma" ns1:ROOT "ferma" ;
+    ns1:conj "comincia" ;
+    ns1:obj "somiglianza" .
+
+"fermarsi" ns1:advcl "meditare" .
+
+"fermata" ns1:ROOT "fermata" ;
+    ns1:xcomp "formare" .
+
+"fiabe" ns1:obl "mondo" .
+
+"fiale" ns1:ROOT "fiale" ;
+    ns1:amod "piene" ;
+    ns1:nmod "rugiada" .
+
+"fiasco" ns1:ROOT "fiasco" .
+
+"figli" ns1:det:poss "miei" ;
+    ns1:nmod "seme" .
+
+"figure" ns1:amod "elementari",
+        "sospese",
+        "umane" ;
+    ns1:det "poche" .
+
+"film" ns1:ROOT "film" .
+
+"filo" ns1:acl:relcl "collega" ;
+    ns1:conj "dimentichiamo" ;
+    ns1:det "Quale" ;
+    ns1:flat:name "sostanza" ;
+    ns1:nmod "metafora" .
+
+"filosofia" ns1:amod "misteriosa",
+        "naturale" .
+
+"filosofo" ns1:acl:relcl "dichiara",
+        "passeggia" ;
+    ns1:amod "austero",
+        "poeta-" .
+
+"finisce" ns1:advcl "avvolgere" ;
+    ns1:obl "decapitazione" .
+
+"fiore" ns1:ROOT "fiore" .
+
+"fiorentina" ns1:nsubj "jeunesse" .
+
+"firmamento" ns1:ROOT "firmamento" ;
+    ns1:acl "spiriti" ;
+    ns1:amod "neoplatonico" .
+
+"flask" ns1:obj "m" ;
+    ns1:obl "And",
+        "Bee",
+        "Breeze",
+        "Dew",
+        "Rose",
+        "caper" .
+
+"fonte" ns1:ROOT "fonte" ;
+    ns1:acl:relcl "bevono" ;
+    ns1:advcl "sventato" ;
+    ns1:nmod "stupore" .
+
+"forma" ns1:nmod "costrizione" .
+
+"formare" ns1:obj "pietra" .
+
+"forme" ns1:acl:relcl "cambiare",
+        "definiscono" ;
+    ns1:amod "nuove",
+        "viventi" .
+
+"fornircene" ns1:ROOT "fornircene" ;
+    ns1:advcl "vogliamo" ;
+    ns1:nsubj "Emily" .
+
+"fornire" ns1:ROOT "fornire" ;
+    ns1:aux "possono" ;
+    ns1:obj "repertorio" .
+
+"fortunati" ns1:ROOT "fortunati" .
+
+"forza" ns1:nmod "gravità" .
+
+"forze" ns1:amod "naturali",
+        "sottili" ;
+    ns1:cc "bensì" ;
+    ns1:nmod "elfi",
+        "equilibrio" .
+
+"fratello" ns1:ROOT "fratello" ;
+    ns1:amod "caro" .
+
+"fraternità" ns1:amod "vera" .
+
+"frivolezza" ns1:nmod "pesante" .
+
+"from" ns1:ROOT "from" ;
+    ns1:compound "one" ;
+    ns1:flat:name "many" ;
+    ns1:nmod "other" .
+
+"frullo" ns1:det "Un" ;
+    ns1:nmod "alberi" ;
+    ns1:punct "–" .
+
+"frusta" ns1:ROOT "frusta" ;
+    ns1:obj "osso" .
+
+"fullest" ns1:nmod "their" .
+
+"funzione" ns1:amod "diversa",
+        "sciamanica" .
+
+"funzioni" ns1:acl "catalogate" ;
+    ns1:case "Tra" .
+
+"furono" ns1:ROOT "furono" ;
+    ns1:obl "guisa" .
+
+"fusi" ns1:amod "gittato" .
+
+"garantire" ns1:obj "libertà" .
+
+"geni" ns1:ROOT "geni" ;
+    ns1:acl:relcl "escono" .
+
+"gentilezza" ns1:amod "rinfrescante" .
+
+"gerarchia" ns1:ROOT "gerarchia" .
+
+"gesto" ns1:nmod "gentilezza" .
+
+"gigante" ns1:conj "spirito" .
+
+"girare" ns1:obj "fuso" .
+
+"giro" ns1:nmod "scambievoli" .
+
+"grandi" ns1:obl "marmo" .
+
+"granelli" ns1:ROOT "granelli" ;
+    ns1:nmod "polvere" .
+
+"gravitazione" ns1:ROOT "gravitazione" ;
+    ns1:amod "universale" .
+
+"grottesco" ns1:ROOT "grottesco" ;
+    ns1:amod "drammatico" .
+
+"gré" ns1:nmod "hasard" .
+
+"guardare" ns1:obl "ottica" .
+
+"guisa" ns1:nmod "assalto" .
+
+"guscio" ns1:nmod "nocciola" .
+
+"ha" ns1:obj "aspetti",
+        "dubbi",
+        "paesaggio",
+        "tempi" ;
+    ns1:obl "interno",
+        "pioggia" .
+
+"had" ns1:flat:name "been",
+        "moreover" .
+
+"heavy" ns1:flat:name "burden" ;
+    ns1:nmod "sink" .
+
+"ho" ns1:ROOT "ho" ;
+    ns1:obj "bisogno" .
+
+"humorous" ns1:amod "most",
+        "sadness" .
+
+"humour" ns1:amod "mescolati" .
+
+"idea" ns1:ROOT "idea" ;
+    ns1:appos "VI" ;
+    ns1:ccomp "ripresa" ;
+    ns1:flat:name "that",
+        "within" ;
+    ns1:nmod "Decameron",
+        "livello" .
+
+"identici" ns1:ROOT "identici" .
+
+"identificata" ns1:ROOT "identificata" ;
+    ns1:advmod "definitivamente" ;
+    ns1:nsubj "immagine" ;
+    ns1:obl "illustrazione" .
+
+"illuminare" ns1:conj "proiettarvi" ;
+    ns1:obj "componimento" .
+
+"illustrare" ns1:ccomp "introdotta" ;
+    ns1:mark "d’" .
+
+"illustrazione" ns1:nmod "capolavoro" .
+
+"illustri" ns1:amod "predecessori" .
+
+"imagerie" ns1:ROOT "imagerie" ;
+    ns1:amod "ricche" .
+
+"imbeve" ns1:amod "II" .
+
+"imboccare" ns1:ROOT "imboccare" ;
+    ns1:aux "Devo" .
+
+"immagina" ns1:ROOT "immagina" ;
+    ns1:obj "protesta" .
+
+"immaginario" ns1:amod "letterario",
+        "popolare" ;
+    ns1:case "con" .
+
+"immaginazione" ns1:ROOT "immaginazione" ;
+    ns1:acl "superare" ;
+    ns1:nmod "spinta" .
+
+"immagine" ns1:acl "riflessa" ;
+    ns1:acl:relcl "assuma" ;
+    ns1:amod "figurale",
+        "visuale" ;
+    ns1:det "quest’" ;
+    ns1:nsubj "Ciò" .
+
+"immagini" ns1:amod "ottiche",
+        "schiaccianti" ;
+    ns1:det "Queste" .
+
+"imparato" ns1:conj "drammi" ;
+    ns1:obj "avatars" ;
+    ns1:obl "personaggio" ;
+    ns1:xcomp "riconoscere" .
+
+"impassibilità" ns1:amod "epicurea" .
+
+"impero" ns1:amod "austriaco" .
+
+"implicita" ns1:nsubj "razionalità" ;
+    ns1:obl "operazione" .
+
+"impone" ns1:ROOT "impone" .
+
+"impossibile" ns1:ROOT "impossibile" ;
+    ns1:advmod "pertanto" ;
+    ns1:csubj "faccia" .
+
+"impoverisce" ns1:nsubj "interpretazione" .
+
+"improvviso" ns1:ROOT "improvviso" ;
+    ns1:nsubj "agile" ;
+    ns1:obj "filosofo" .
+
+"impulsi" ns1:amod "elettronici",
+        "magnetici" ;
+    ns1:conj "messaggi" ;
+    ns1:det "quegli" ;
+    ns1:obj "neuroni" .
+
+"inanimate" ns1:ROOT "inanimate" ;
+    ns1:conj "animate" .
+
+"incorporea" ns1:nsubj "astrazione" ;
+    ns1:obj "razionalismo" .
+
+"indeed" ns1:ROOT "indeed" ;
+    ns1:obj "contemplation" .
+
+"inerzia" ns1:ROOT "inerzia" .
+
+"infilza" ns1:xcomp "lancia" .
+
+"infinie" ns1:nmod "quantité" .
+
+"influssi" ns1:obj "maligni" .
+
+"informatica" ns1:ROOT "informatica" .
+
+"informazione" ns1:acl:relcl "corre" .
+
+"inizi" ns1:obj "traduzione" .
+
+"iniziato" ns1:ROOT "iniziato" ;
+    ns1:mark "Quando" ;
+    ns1:obj "attività" .
+
+"innamorato" ns1:aux "sei" ;
+    ns1:nsubj "Tu" .
+
+"inoltre" ns1:ROOT "inoltre" .
+
+"inquisitori" ns1:det "dagli" .
+
+"insanguinate" ns1:obl:agent "contese" .
+
+"inseguimento" ns1:ROOT "inseguimento" ;
+    ns1:amod "perpetuo" .
+
+"insensate" ns1:advmod "meno" .
+
+"intellettuali" ns1:ROOT "intellettuali" ;
+    ns1:conj "poetiche" ;
+    ns1:obl "qualità" .
+
+"intendere" ns1:ROOT "intendere" ;
+    ns1:aux "stenta" ;
+    ns1:obj "uomo" ;
+    ns1:obl "farsi" .
+
+"interest" ns1:ROOT "interest" ;
+    ns1:amod "nerves" .
+
+"interiore" ns1:amod "picaresco" .
+
+"interno" ns1:nmod "cornice" .
+
+"interpretare" ns1:ROOT "interpretare" ;
+    ns1:advcl "considerando" .
+
+"intrecciati" ns1:ROOT "intrecciati" ;
+    ns1:cc """
+
+
+   """ ;
+    ns1:nsubj "discorso" .
+
+"introdotta" ns1:nsubj:pass "similitudine" .
+
+"inventare" ns1:advcl "salire" .
+
+"invenzione" ns1:amod "poetica" .
+
+"invenzioni" ns1:acl:relcl "impongono" ;
+    ns1:amod "letterarie" .
+
+"inverno" ns1:det "quell’" .
+
+"investito" ns1:obl "misura" .
+
+"invited" ns1:ROOT "invited" ;
+    ns1:nmod "occasion" .
+
+"involucri" ns1:amod "tenui" .
+
+"io" ns1:amod "venia" ;
+    ns1:cc "Ed" ;
+    ns1:conj "rete" ;
+    ns1:flat:name "potei" .
+
+"is" ns1:obl "melancholy" .
+
+"isbigottite" ns1:amod "penne",
+        "triste" .
+
+"istante" ns1:nmod "invenzione" .
+
+"its" ns1:amod "lightness" ;
+    ns1:conj "its" .
+
+"jeunesse" ns1:flat:name "dorée" .
+
+"just" ns1:flat:name "before" ;
+    ns1:nmod "fullest" .
+
+"laminatoi" ns1:conj "colate" .
+
+"lampada" ns1:advmod "spenta" .
+
+"lancia" ns1:obj "mulino",
+        "pala" .
+
+"lasciare" ns1:ROOT "lasciare" ;
+    ns1:advmod "Meglio" ;
+    ns1:ccomp "componga" .
+
+"lasciarli" ns1:ROOT "lasciarli" ;
+    ns1:csubj "depositare" .
+
+"lasciarsi" ns1:ROOT "lasciarsi" ;
+    ns1:amod "pietrificare" ;
+    ns1:aux "devono" ;
+    ns1:ccomp "dissolvere" .
+
+"lasciata" ns1:aux "andava" .
+
+"lash" ns1:ROOT "lash" .
+
+"later" ns1:flat:name "discussions",
+        "ended" .
+
+"lavoraccio" ns1:nmod "genere" .
+
+"leggera" ns1:conj "piana" .
+
+"leggerezza" ns1:ROOT "leggerezza" ;
+    ns1:amod "felice",
+        "pensosa",
+        "sonetto" ;
+    ns1:det "La" ;
+    ns1:nmod "Guido" .
+
+"leggerissimo" ns1:ROOT "leggerissimo" .
+
+"leggero" ns1:ROOT "leggero" ;
+    ns1:advmod "affatto",
+        "così" ;
+    ns1:ccomp "vola" .
+
+"leggi" ns1:acl:relcl "determinano" ;
+    ns1:amod "meccaniche",
+        "rigorose" .
+
+"legittimo" ns1:ROOT "legittimo" ;
+    ns1:csubj "corrisponda",
+        "estrapolare" ;
+    ns1:nsubj "desideri",
+        "scienze" .
+
+"legni" ns1:ROOT "legni" ;
+    ns1:amod "adorni" ;
+    ns1:nmod "correnti" .
+
+"lepri" ns1:amod "selve" .
+
+"les" ns1:flat:name "bras" .
+
+"letteratura" ns1:ROOT "letteratura" ;
+    ns1:acl "colta" ;
+    ns1:amod "italiana",
+        "orale" .
+
+"letterature" ns1:flat:name "moderne" .
+
+"levarsi" ns1:ROOT "levarsi" .
+
+"levatrice" ns1:ROOT "levatrice" ;
+    ns1:conj "appare" ;
+    ns1:nsubj "guscio" .
+
+"levitazione" ns1:amod "desiderata" ;
+    ns1:case "tra" .
+
+"levità" ns1:case "malgrado" ;
+    ns1:conj "oscillazioni" .
+
+"lezione" ns1:acl:relcl "trarre" ;
+    ns1:nmod "metodo" .
+
+"liberato" ns1:ROOT "liberato" ;
+    ns1:nsubj "Andromeda" .
+
+"liberazione" ns1:ROOT "liberazione" ;
+    ns1:amod "predicata",
+        "sessuale" .
+
+"linea" ns1:amod "orizzontale" ;
+    ns1:nmod "senso" ;
+    ns1:obj "retta" .
+
+"linee" ns1:amod "generali" .
+
+"linguaggio" ns1:acl:relcl "convogliati" .
+
+"little" ns1:flat:name "atomies" .
+
+"livelli" ns1:conj "attributi" .
+
+"livello" ns1:acl:relcl "trova" ;
+    ns1:nmod "percezione" .
+
+"logica" ns1:conj "stile" .
+
+"lontano" ns1:advmod "molto" .
+
+"looking" ns1:ROOT "looking" ;
+    ns1:nsubj "others" ;
+    ns1:obj "on" .
+
+"lowest" ns1:ROOT "lowest" ;
+    ns1:det "the" ;
+    ns1:nmod "Gallery",
+        "People" .
+
+"luce" ns1:amod "lunare" .
+
+"lucreziano" ns1:ROOT "lucreziano" ;
+    ns1:conj "forte" ;
+    ns1:nsubj "seguace" ;
+    ns1:obl "Confesso" .
+
+"lumaca" ns1:conj "smeriglio" .
+
+"luna" ns1:ROOT "luna" ;
+    ns1:advmod "soprattutto" ;
+    ns1:amod "cara",
+        "graziosa",
+        "recente",
+        "silenziosa",
+        "tenendosi" .
+
+"lunghe" ns1:amod "canne" ;
+    ns1:det "certe" .
+
+"là" ns1:csubj "eccelle" .
+
+"léger" ns1:ROOT "léger" ;
+    ns1:nsubj "faut" ;
+    ns1:obj "oiseau" .
+
+"m" ns1:det "I’" .
+
+"macchine" ns1:nmod "ferro" .
+
+"macrocosmo" ns1:conj "microcosmo" .
+
+"made" ns1:amod "legs" ;
+    ns1:nmod "spinners" .
+
+"maestro" ns1:conj "amico" .
+
+"magia" ns1:ROOT "magia" ;
+    ns1:amod "rinascimentale" .
+
+"mais" ns1:acl "vous" .
+
+"malattie" ns1:ROOT "malattie" .
+
+"malinconia" ns1:ROOT "malinconia" ;
+    ns1:acl "composta" ;
+    ns1:amod "peculiare" .
+
+"mancanza" ns1:det "ogni" .
+
+"mancato" ns1:advmod "cioè",
+        "poco" ;
+    ns1:mark "quanto" .
+
+"manifesta" ns1:ROOT "manifesta" ;
+    ns1:nsubj "genialità" .
+
+"mano" ns1:amod "piena" ;
+    ns1:nmod "foglie" .
+
+"mantice" ns1:ROOT "mantice" ;
+    ns1:obl "elitre" .
+
+"maschera" ns1:ROOT "maschera" .
+
+"massacrato" ns1:ROOT "massacrato" .
+
+"materia" ns1:amod "mescolata" ;
+    ns1:aux "avrebbero" ;
+    ns1:conj "agilità" ;
+    ns1:nsubj "milioni" .
+
+"materiali" ns1:nmod "simulacro" .
+
+"mattino" ns1:amod "comune" ;
+    ns1:nmod "estate" .
+
+"measurement" ns1:nmod "abyss" .
+
+"meditando" ns1:obl "chiesa",
+        "sepolcri" .
+
+"meglio" ns1:ROOT "meglio" ;
+    ns1:obl "campo" .
+
+"melancholy" ns1:nmod "own" .
+
+"melanconia" ns1:conj "umorismo" ;
+    ns1:nmod "atto" .
+
+"memoria" ns1:det:poss "nostra" .
+
+"meraviglia" ns1:acl:relcl "esca" ;
+    ns1:nmod "quantità" .
+
+"meravigliate" ns1:ROOT "meravigliate" ;
+    ns1:expl "Vi" ;
+    ns1:nsubj """
+    """ .
+
+"merita" ns1:obj "castigo" .
+
+"meritare" ns1:obj "morte" .
+
+"meriterebbe" ns1:ROOT "meriterebbe" ;
+    ns1:xcomp "ricordato" .
+
+"merveille" ns1:flat:name "entre" .
+
+"mescolati" ns1:conj "inseparabili" .
+
+"messaggero" ns1:ROOT "messaggero" ;
+    ns1:nsubj "testo" ;
+    ns1:obj "messaggio-" .
+
+"messaggi" ns1:acl:relcl "chiama" ;
+    ns1:amod "immateriali" .
+
+"messer" ns1:ROOT "messer" ;
+    ns1:advcl "venendo" ;
+    ns1:advmod "Betto" .
+
+"messi" ns1:obl "confronto" .
+
+"metalli" ns1:acl:relcl "trasformano" .
+
+"metodi" ns1:ROOT "metodi" .
+
+"mette" ns1:advmod "piano" ;
+    ns1:nsubj "congiunzione" ;
+    ns1:obj "sullo" ;
+    ns1:obl "dubbio" .
+
+"mettersi" ns1:xcomp "tessere" .
+
+"metterò" ns1:ROOT "metterò" ;
+    ns1:advcl "intendo" ;
+    ns1:obj "parola" ;
+    ns1:obl "binario",
+        "io" .
+
+"mezzi" ns1:ROOT "mezzi" ;
+    ns1:amod "linguistici" .
+
+"midollo" ns1:nmod "bue" .
+
+"millennio" ns1:amod "nuovo" ;
+    ns1:case "al" .
+
+"minerali" ns1:ROOT "minerali" .
+
+"minutissime" ns1:ROOT "minutissime" ;
+    ns1:nmod "umori" .
+
+"minuto" ns1:advmod "infinitamente" ;
+    ns1:conj "mobile" .
+
+"miracolo" ns1:acl:relcl "segue" .
+
+"misteriosi" ns1:ROOT "misteriosi" ;
+    ns1:conj "è" ;
+    ns1:cop "sono" ;
+    ns1:nsubj "racconti" .
+
+"misura" ns1:amod "minima" ;
+    ns1:obj "risorse" .
+
+"mito" ns1:conj "soffoca" .
+
+"mitologie" ns1:amod "celtiche",
+        "classiche" .
+
+"modello" ns1:nmod "combinatoria" .
+
+"modi" ns1:nmod "trasferimento" .
+
+"modificare" ns1:obj "realtà" .
+
+"modo" ns1:acl "elaborare",
+        "vedere" ;
+    ns1:amod "deteriorabile" ;
+    ns1:det "qualche" ;
+    ns1:nmod "muoversi",
+        "sfuggirle" .
+
+"modulazione" ns1:ROOT "modulazione" ;
+    ns1:amod "lirica" .
+
+"moglie" ns1:nmod "carbonaio" .
+
+"momenti" ns1:amod "Nei" .
+
+"momento" ns1:acl "stabilire" ;
+    ns1:amod "primo" ;
+    ns1:nsubj "Al" .
+
+"mon" ns1:ROOT "mon" ;
+    ns1:nmod "cher" .
+
+"mondo" ns1:acl:relcl "fonda" ;
+    ns1:amod "esterno",
+        "moderno",
+        "stesse" ;
+    ns1:case "verso" .
+
+"moonshine" ns1:ROOT "moonshine" ;
+    ns1:conj "watery" .
+
+"mosse" ns1:nmod "discussioni" ;
+    ns1:nsubj "Marcher" .
+
+"mossi" ns1:ROOT "mossi" ;
+    ns1:aux:pass "erano" .
+
+"mostri" ns1:acl:relcl "toccato" ;
+    ns1:amod "sollevandola" ;
+    ns1:nmod "chioma" .
+
+"mostro" ns1:amod "marino",
+        "spaventoso" .
+
+"mostruoso" ns1:conj "tremendo" ;
+    ns1:obl "gesto" .
+
+"motivi" ns1:ROOT "motivi" ;
+    ns1:conj "concetti" .
+
+"motivo" ns1:ROOT "motivo" ;
+    ns1:amod "lirico" ;
+    ns1:cop "era" ;
+    ns1:nsubj "contemplazione" .
+
+"movimento" ns1:acl:relcl "creavano" ;
+    ns1:amod "continuo" .
+
+"muove" ns1:advmod "rapidamente" ;
+    ns1:ccomp "renderci" .
+
+"muovere" ns1:ROOT "muovere" ;
+    ns1:obj "ago" ;
+    ns1:obl "ricamo" .
+
+"muovermi" ns1:flat:name "sul",
+        "terreno" .
+
+"mérite" ns1:advmod "qui" .
+
+"n" ns1:amod "ornamenti" ;
+    ns1:flat:name "mar" ;
+    ns1:punct "‘" .
+
+"narrazione" ns1:ROOT "narrazione" ;
+    ns1:nmod "2" .
+
+"nasce" ns1:ROOT "nasce" .
+
+"nascono" ns1:ROOT "nascono" .
+
+"nascosta" ns1:ROOT "nascosta" ;
+    ns1:obl "sacco" .
+
+"nascosto" ns1:amod "tenendolo" .
+
+"nato" ns1:ROOT "nato" ;
+    ns1:obl "sangue" .
+
+"nave" ns1:ROOT "nave" .
+
+"necessità" ns1:acl "respingere" ;
+    ns1:acl:relcl "corrisponde" ;
+    ns1:amod "antropologiche",
+        "nelle" .
+
+"need" ns1:acl "dare" ;
+    ns1:nmod "charge",
+        "didn’",
+        "rebutting" .
+
+"nel" ns1:amod "irrazionale" ;
+    ns1:flat:name "1917" ;
+    ns1:nummod "1953" .
+
+"nella" ns1:ROOT "nella" ;
+    ns1:amod "antico",
+        "famosa" ;
+    ns1:flat:name "Divina",
+        "carrozza",
+        "diavolo",
+        "letteralità",
+        "novella" ;
+    ns1:nsubj "lezione" ;
+    ns1:obj "memoria" .
+
+"nelle" ns1:amod "letterature" ;
+    ns1:conj "vicende" .
+
+"nello" ns1:amod "specchietto",
+        "specchio" ;
+    ns1:det "librarsi" ;
+    ns1:flat:name "scudo",
+        "spazio" ;
+    ns1:nmod "Sirio",
+        "bronzo" .
+
+"neoplatonismo" ns1:ROOT "neoplatonismo" ;
+    ns1:conj "celtic" .
+
+"nervi" ns1:ROOT "nervi" ;
+    ns1:nsubj "interesse" .
+
+"nesso" ns1:nmod "levitazione" .
+
+"neutrini" ns1:compound "vaganti" .
+
+"neve" ns1:nmod "sanza" .
+
+"newtoniane" ns1:ROOT "newtoniane" ;
+    ns1:amod "teorie" ;
+    ns1:nmod "compendia" .
+
+"ninfe" ns1:conj "driadi" ;
+    ns1:nmod "adornarsi" .
+
+"nodi" ns1:amod "stretti" .
+
+"not" ns1:ROOT "not" ;
+    ns1:flat:name "appered" ;
+    ns1:nsubj "need" .
+
+"notte" ns1:ROOT "notte" ;
+    ns1:amod "fredda" ;
+    ns1:conj "vento" ;
+    ns1:det "una" ;
+    ns1:nmod "tempo" ;
+    ns1:nsubj "Dolce" .
+
+"nulla" ns1:nmod "più" .
+
+"nuovissime" ns1:conj "antichissime" .
+
+"n’" ns1:nsubj "arrive",
+        "rafle" .
+
+"obbediscono" ns1:ROOT "obbediscono" .
+
+"obbligato" ns1:ccomp "porta" .
+
+"occhi" ns1:ROOT "occhi" .
+
+"occhio" ns1:amod "unico" .
+
+"occorrevano" ns1:advcl "progettare" ;
+    ns1:conj "occorrevano" .
+
+"occupa" ns1:ROOT "occupa" ;
+    ns1:obj "righe" .
+
+"occupano" ns1:conj "bastano" ;
+    ns1:nsubj "poesie" ;
+    ns1:obj "versi" .
+
+"offre" ns1:ROOT "offre" ;
+    ns1:advcl "enfants" ;
+    ns1:nsubj "je" ;
+    ns1:obj "mes",
+        "t’" .
+
+"offro" ns1:ROOT "offro" ;
+    ns1:nsubj "figli" .
+
+"often" ns1:ROOT "often" ;
+    ns1:nsubj "by" ;
+    ns1:obj "rumination" .
+
+"once" ns1:ROOT "once" ;
+    ns1:flat:name "for" .
+
+"onda" ns1:amod "mollemente" .
+
+"ondeggiando" ns1:obl "sulla" .
+
+"opacità" ns1:ROOT "opacità" .
+
+"opera" ns1:ROOT "opera" ;
+    ns1:nsubj "De" .
+
+"operazione" ns1:acl:relcl "tentando" ;
+    ns1:amod "letteraria" .
+
+"opere" ns1:nmod "passato" .
+
+"opposto" ns1:nmod "quelli" .
+
+"oppressione" ns1:amod "disperata" .
+
+"ora" ns1:acl:relcl "cerchi" .
+
+"ordine" ns1:ROOT "ordine" .
+
+"orientale" ns1:amod "meraviglioso" .
+
+"orizzonti" ns1:amod "orientale" .
+
+"oro" ns1:ROOT "oro" .
+
+"orrore" ns1:amod "feroce" .
+
+"orti" ns1:amod "posa" ;
+    ns1:obl "agli" .
+
+"oscillation" ns1:amod "occasional" ;
+    ns1:nmod "somewhat" .
+
+"oscillazioni" ns1:amod "occasionali" .
+
+"ossessioni" ns1:nummod "due" .
+
+"osso" ns1:nmod "grillo" .
+
+"other" ns1:case "to" .
+
+"others" ns1:cc "and" .
+
+"ottimismo" ns1:amod "generoso" .
+
+"padroneggiare" ns1:obj "volto" .
+
+"paesaggio" ns1:nmod "Inferno" .
+
+"pagare" ns1:ROOT "pagare" ;
+    ns1:advmod "subito" .
+
+"paiono" ns1:ROOT "paiono" ;
+    ns1:nummod "740" ;
+    ns1:xcomp "straordinari" .
+
+"palla" ns1:acl "lanciata",
+        "ripetute" ;
+    ns1:amod "calamitata" ;
+    ns1:nmod "cannone" .
+
+"pare" ns1:ROOT "pare" ;
+    ns1:advmod "Non" ;
+    ns1:ccomp "cominci" ;
+    ns1:csubj "connettere" ;
+    ns1:iobj "mi" ;
+    ns1:obj "forzatura" .
+
+"parificazione" ns1:amod "cavalcantiana" ;
+    ns1:nmod "reali" .
+
+"parità" ns1:amod "essenziale" .
+
+"parla" ns1:ROOT "parla" .
+
+"parlando" ns1:ROOT "parlando" ;
+    ns1:obl "fughe" .
+
+"parlato" ns1:ROOT "parlato" ;
+    ns1:aux "Avevo" ;
+    ns1:mark """
+   """ ;
+    ns1:obj "dello",
+        "epoca",
+        "streghe" ;
+    ns1:obl "proposito" .
+
+"parlava" ns1:mark "quando" ;
+    ns1:obl "cosa" .
+
+"parlerò" ns1:ROOT "parlerò" .
+
+"parola" ns1:acl "determinare" ;
+    ns1:advmod "neanche" ;
+    ns1:amod "compare" ;
+    ns1:compound "chiave" .
+
+"parole" ns1:conj "suoni" .
+
+"partito" ns1:ROOT "partito" ;
+    ns1:conj "venutosene" ;
+    ns1:obl "Orto" .
+
+"parve" ns1:ROOT "parve" .
+
+"pas" ns1:flat:name "combien",
+        "faite",
+        "peu",
+        "été" .
+
+"passa" ns1:ROOT "passa" ;
+    ns1:nsubj "Propp" ;
+    ns1:obl "seguito" ;
+    ns1:xcomp "elencare" .
+
+"passato" ns1:acl:relcl "riconosco" .
+
+"passavano" ns1:obl "festa" .
+
+"passeggia" ns1:advcl "meditando" .
+
+"passo" ns1:amod "danzante" ;
+    ns1:nmod "Mercuzio" .
+
+"pena" ns1:amod "amorosa" .
+
+"pendevi" ns1:obj "allor" .
+
+"pensa" ns1:advcl "fatta",
+        "mancato" .
+
+"pensando" ns1:ROOT "pensando" ;
+    ns1:aux "sto" ;
+    ns1:cc "E" ;
+    ns1:nsubj:pass "Dream" ;
+    ns1:obl "Puck" .
+
+"pensatori" ns1:acl:relcl "contenuti" .
+
+"pensiamo" ns1:ccomp "scritta" ;
+    ns1:mark "Se" .
+
+"penso" ns1:ROOT "penso" ;
+    ns1:ccomp "cercata",
+        "implicita",
+        "occulta" ;
+    ns1:obj "studi" .
+
+"perdersi" ns1:ROOT "perdersi" ;
+    ns1:case "fino" .
+
+"perfezionato" ns1:advcl "sostenere" ;
+    ns1:obl:agent "Jonathan" .
+
+"permanente" ns1:conj "immutabile" .
+
+"permette" ns1:cc "e" ;
+    ns1:ccomp "contemplare" ;
+    ns1:obj "ai" ;
+    ns1:xcomp "fondere" .
+
+"permettere" ns1:obj "deviazioni" .
+
+"permetterebbe" ns1:advcl "pieno" ;
+    ns1:advmod "non" ;
+    ns1:xcomp "volare" .
+
+"perorazione" ns1:nmod "fraternità" .
+
+"perpetuo" ns1:det "quel" ;
+    ns1:obj "cose" .
+
+"perso" ns1:obj "pesantezza" .
+
+"persona" ns1:amod "prima" ;
+    ns1:nmod "fatalità" .
+
+"personaggi" ns1:amod "umani" .
+
+"personaggio" ns1:nmod "Amleto" .
+
+"pesantezza" ns1:amod "corporea",
+        "hardware" ;
+    ns1:case "mediante" .
+
+"pescavano" ns1:obl "lunghe" .
+
+"peso" ns1:amod "esatto",
+        "grave",
+        "insostenibile",
+        "materiale",
+        "valide" ;
+    ns1:case "sotto" ;
+    ns1:det:poss "proprio" ;
+    ns1:nmod "farlo",
+        "vita" ;
+    ns1:nummod "sull’" ;
+    ns1:obj "ragionamento" .
+
+"petal" ns1:ROOT "petal" .
+
+"pettorali" ns1:ROOT "pettorali" ;
+    ns1:nmod "raggi" .
+
+"peu" ns1:nmod "animaux" .
+
+"peut" ns1:flat:name "avoir" .
+
+"piani" ns1:amod "primi" ;
+    ns1:conj "trasporta" .
+
+"pianta" ns1:conj "animale" .
+
+"piazza" ns1:nmod "Santa" .
+
+"picaresco" ns1:conj "avventuroso" .
+
+"pien" ns1:obl "angoscia" .
+
+"pieno" ns1:cop "fosse" ;
+    ns1:mark "se" .
+
+"pietra" ns1:amod "tombale" .
+
+"pietrificazione" ns1:amod "lenta" .
+
+"pioggia" ns1:nmod "fuoco" .
+
+"piombo" ns1:ROOT "piombo" .
+
+"più" ns1:advcl "permetterebbe" ;
+    ns1:advmod "Tanto",
+        "certo" ;
+    ns1:conj "avanzata" ;
+    ns1:nmod "quello" .
+
+"plummet" ns1:conj "measurement" .
+
+"plus" ns1:ROOT "plus" .
+
+"poema" ns1:ROOT "poema" ;
+    ns1:amod "enciclopedico" .
+
+"poesia" ns1:acl "messi" ;
+    ns1:acl:relcl "diventa" ;
+    ns1:appos "traccia" ;
+    ns1:obj "potenzialità" .
+
+"poesie" ns1:det "alcune" ;
+    ns1:det:poss "sue" .
+
+"poeta" ns1:amod "esiliato",
+        "fiorentino" ;
+    ns1:nsubj "Campanella" .
+
+"poeti" ns1:det:predet "entrambi" .
+
+"polvere" ns1:acl:relcl "turbinano" .
+
+"polverizzazione" ns1:det "Questa" .
+
+"ponte" ns1:amod "solido" .
+
+"porta" ns1:conj "conseguenze" ;
+    ns1:obj "alle" ;
+    ns1:obl "San",
+        "sé",
+        "uso" .
+
+"portarvi" ns1:case "di" .
+
+"portato" ns1:ROOT "portato" ;
+    ns1:nsubj:pass "Barone" ;
+    ns1:obl "dalle" .
+
+"posi" ns1:ROOT "posi" ;
+    ns1:nsubj "indi" .
+
+"possibilità" ns1:amod "sonore" ;
+    ns1:conj "evocazione" .
+
+"posso" ns1:obj "mettermi" ;
+    ns1:obl "indicazioni" ;
+    ns1:xcomp "sfogliare" .
+
+"posta" ns1:ROOT "posta" ;
+    ns1:obj "mano" .
+
+"potenzialità" ns1:amod "imprevedibili",
+        "infinite" .
+
+"potere" ns1:acl "comunicare" .
+
+"poteri" ns1:amod "sciamanici" ;
+    ns1:conj "valori" .
+
+"precedono" ns1:conj "seguono" .
+
+"precisamente" ns1:advcl "ruminare" ;
+    ns1:obl "esperienze",
+        "quali" .
+
+"precisione" ns1:conj "determinazione" .
+
+"precursore" ns1:ROOT "precursore" ;
+    ns1:amod "vero" .
+
+"preghiera" ns1:amod "umile" ;
+    ns1:det:poss "tua" .
+
+"prese" ns1:ROOT "prese" .
+
+"presenta" ns1:ROOT "presenta" ;
+    ns1:advcl "presse" ;
+    ns1:nsubj "rivoluzione" .
+
+"presente" ns1:conj "futuro" .
+
+"presse" ns1:nmod "laminatoi" .
+
+"prestare" ns1:obj "ali" ;
+    ns1:obl "Cupido" .
+
+"privazione" ns1:conj "desiderio",
+        "ricerca" .
+
+"problema" ns1:ROOT "problema" ;
+    ns1:acl:relcl "stimola" ;
+    ns1:nmod "sottrarsi" .
+
+"processi" ns1:acl:relcl "create" .
+
+"processo" ns1:acl:relcl "agiscono" ;
+    ns1:amod "psicologico" .
+
+"professione" ns1:amod "esplicita" ;
+    ns1:nmod "concezione",
+        "fede",
+        "persistenza" .
+
+"profondità" ns1:nmod "Beast" .
+
+"programmi" ns1:amod "complessi" .
+
+"proiettarvi" ns1:obj "ombra" .
+
+"pronto" ns1:cop "sarebbe" ;
+    ns1:obl "accontentarlo" .
+
+"proporrei" ns1:ROOT "proporrei" .
+
+"proposito" ns1:nmod "riaffiora" .
+
+"proprietà" ns1:ROOT "proprietà" ;
+    ns1:acl "enunciate" ;
+    ns1:amod "spaziali",
+        "trattati" ;
+    ns1:nmod "termini" .
+
+"protesta" ns1:nmod "cavolo" .
+
+"provare" ns1:ROOT "provare" ;
+    ns1:aux "possiamo" ;
+    ns1:obl "Henry" .
+
+"provenivano" ns1:ROOT "provenivano" .
+
+"pubbliche" ns1:conj "private" .
+
+"pungere" ns1:ROOT "pungere" .
+
+"punto" ns1:acl "produrre" ;
+    ns1:acl:relcl "entra" ;
+    ns1:amod "ultimo" ;
+    ns1:nmod "partenza" ;
+    ns1:nsubj "Comincerò" .
+
+"qualcosa" ns1:acl:relcl "contraddistinto",
+        "crea",
+        "implicito" ;
+    ns1:obl "casi" .
+
+"quale" ns1:case "contro" .
+
+"qualità" ns1:acl:relcl "attaccano" .
+
+"quantità" ns1:acl:relcl "cambia" ;
+    ns1:det "un’" ;
+    ns1:nmod "materia" .
+
+"quantité" ns1:nmod "matière" .
+
+"quanto" ns1:case "Da" .
+
+"quarks" ns1:ROOT "quarks" .
+
+"quella" ns1:acl "evitare" ;
+    ns1:acl:relcl "credono" ;
+    ns1:amod "selva" ;
+    ns1:nmod "Pico",
+        "dimensione" .
+
+"quelle" ns1:ROOT "quelle" ;
+    ns1:acl:relcl "visto" ;
+    ns1:amod "arche" ;
+    ns1:case "insieme" ;
+    ns1:nmod "Capuleti" .
+
+"quelli" ns1:nmod "Swift" .
+
+"quello" ns1:acl:relcl "capaci",
+        "cominciato",
+        "farebbe",
+        "scegliamo",
+        "troverà" ;
+    ns1:amod "fiammifero",
+        "tarda" ;
+    ns1:nmod "apparizione" ;
+    ns1:nsubj "bagliore" .
+
+"quintessenza" ns1:ROOT "quintessenza" ;
+    ns1:nmod "sostanze" .
+
+"quête" ns1:acl "cavaliere" .
+
+"rabbini" ns1:ROOT "rabbini" ;
+    ns1:amod "spagnoli" ;
+    ns1:conj "quella" ;
+    ns1:nsubj "Kabbala" .
+
+"racconta" ns1:ROOT "racconta" ;
+    ns1:obj "dita" .
+
+"raccontando" ns1:ROOT "raccontando" .
+
+"raccontarci" ns1:acl:relcl "uscire" ;
+    ns1:advmod "solo" .
+
+"racconti" ns1:amod "brevi" ;
+    ns1:det "Molti",
+        "dei" .
+
+"racconto" ns1:advcl "concentrando" ;
+    ns1:amod "breve" ;
+    ns1:cop "È" ;
+    ns1:det "questo" ;
+    ns1:nmod "Kafka" ;
+    ns1:nsubj "complicato" ;
+    ns1:obj "astratto" ;
+    ns1:obl "persona" .
+
+"rafle" ns1:det "une" .
+
+"raggi" ns1:amod "luminosi",
+        "roridi" ;
+    ns1:nsubj "zampe" ;
+    ns1:obj "ruote" .
+
+"raggio" ns1:ROOT "raggio" ;
+    ns1:conj "danzan" ;
+    ns1:nsubj "tranquillo" .
+
+"ragionamento" ns1:amod "ininterrotto" .
+
+"ragionarci" ns1:ROOT "ragionarci" .
+
+"ragnatele" ns1:acl:relcl "avvolgono" .
+
+"rame" ns1:conj "legno" .
+
+"rammento" ns1:ROOT "rammento" .
+
+"ramoscelli" ns1:acl "nati" ;
+    ns1:compound "marini" ;
+    ns1:conj "alghe" ;
+    ns1:nmod "contatto" .
+
+"rapide" ns1:amod "elettriche" ;
+    ns1:flat:name "scariche" .
+
+"rappresentata" ns1:ccomp "mostruoso" .
+
+"rarefatta" ns1:amod "consistenza" .
+
+"razionalismo" ns1:acl:relcl "dirige" .
+
+"razionalità" ns1:amod "profonda" .
+
+"reale" ns1:advmod "ben" .
+
+"realtà" ns1:amod "concreta",
+        "conoscibile",
+        "unica" ;
+    ns1:compound "averroismo" .
+
+"reame" ns1:amod "altro",
+        "diverso" .
+
+"reazione" ns1:acl "vivere" .
+
+"rebutting" ns1:flat:name "his" .
+
+"regno" ns1:acl:relcl "risarcita" ;
+    ns1:advmod "là" ;
+    ns1:amod "nel" ;
+    ns1:cc "né" ;
+    ns1:nmod "Montagne" .
+
+"relazioni" ns1:acl:relcl "costituiscono" .
+
+"remue" ns1:flat:name "incessamment" .
+
+"remuement" ns1:ROOT "remuement" ;
+    ns1:advcl "fasse" ;
+    ns1:nsubj "impossible" ;
+    ns1:obj "ce" ;
+    ns1:obl "Aussi" .
+
+"rencontré" ns1:ROOT "rencontré" ;
+    ns1:xcomp "faire" .
+
+"rende" ns1:obl "strato" ;
+    ns1:xcomp "soffice" .
+
+"renderci" ns1:dep "conto" .
+
+"rendere" ns1:aux "voler" .
+
+"repertorio" ns1:nmod "ninfe" .
+
+"resta" ns1:ROOT "resta" ;
+    ns1:advmod "ciononostante" ;
+    ns1:xcomp "luoghi" .
+
+"resurrezione" ns1:nmod "vite" .
+
+"rete" ns1:amod "fitta" ;
+    ns1:nmod "relazioni" .
+
+"riannodata" ns1:obl "discesa" .
+
+"ricca" ns1:ROOT "ricca" ;
+    ns1:obl "figure" .
+
+"ricche" ns1:nsubj "mitologie" .
+
+"ricchezza" ns1:amod "enorme" ;
+    ns1:conj "versatilità" .
+
+"ricco" ns1:ROOT "ricco" ;
+    ns1:conj "elegante" ;
+    ns1:mark "benché" .
+
+"ricerca" ns1:nmod "conoscenza" .
+
+"richiederebbe" ns1:ROOT "richiederebbe" ;
+    ns1:obj "specificazioni" .
+
+"richiedevano" ns1:ROOT "richiedevano" ;
+    ns1:obj "tanto" .
+
+"ricompensa" ns1:ROOT "ricompensa" ;
+    ns1:nsubj "cortesia" .
+
+"riconoscere" ns1:obl "tutti" .
+
+"riconosco" ns1:nsubj "ideale" .
+
+"ricordarci" ns1:ROOT "ricordarci" ;
+    ns1:aux "dobbiamo" .
+
+"riesce" ns1:ROOT "riesce" ;
+    ns1:nsubj "Micromégas" ;
+    ns1:xcomp "diventare",
+        "padroneggiare",
+        "viaggiare" .
+
+"rievocazione" ns1:amod "autobiografica" ;
+    ns1:nummod "storico-" .
+
+"rifiuti" ns1:ROOT "rifiuti" ;
+    ns1:xcomp "esser" .
+
+"righe" ns1:obj "romanzo" .
+
+"rigorosi" ns1:conj "impassibili" .
+
+"rimangono" ns1:ROOT "rimangono" ;
+    ns1:nsubj "piedi" ;
+    ns1:xcomp "inchiodati" .
+
+"rinchiude" ns1:ROOT "rinchiude" .
+
+"ripete" ns1:advmod "spesso" .
+
+"ripetute" ns1:advmod "verticalmente" ;
+    ns1:obl:agent "navicella" .
+
+"ripresa" ns1:aux:pass "fu" ;
+    ns1:nsubj:pass "segni" ;
+    ns1:obl:agent "tradizione" .
+
+"ripreso" ns1:ROOT "ripreso" ;
+    ns1:obl "varianti" .
+
+"risarcita" ns1:advmod "magicamente" ;
+    ns1:aux:pass "sarà" ;
+    ns1:nsubj:pass "mancanza" .
+
+"rischiari" ns1:ROOT "rischiari" .
+
+"risparmiava" ns1:ROOT "risparmiava" ;
+    ns1:obj "aspetto" .
+
+"rispondeva" ns1:ROOT "rispondeva" ;
+    ns1:advcl "annullando" ;
+    ns1:parataxis "influssi" .
+
+"ritmo" ns1:acl:relcl "spingeva" ;
+    ns1:compound "interiore" .
+
+"riuscire" ns1:xcomp "parlare" .
+
+"rivela" ns1:ROOT "rivela" ;
+    ns1:obj "montagna" ;
+    ns1:xcomp "serena" .
+
+"rivera" ns1:ROOT "rivera" ;
+    ns1:conj "prato" .
+
+"rivolge" ns1:ROOT "rivolge" ;
+    ns1:advcl "scrivendo" .
+
+"rivoluzione" ns1:amod "industriale",
+        "seconda" .
+
+"romanziere" ns1:acl "rappresentare" .
+
+"romanzo" ns1:nmod "Leggerezza" .
+
+"rosa" ns1:ROOT "rosa" ;
+    ns1:nsubj "frullo" .
+
+"rovesciata" ns1:ROOT "rovesciata" .
+
+"rugiada" ns1:acl:relcl "evaporano" .
+
+"récompense" ns1:ROOT "récompense" ;
+    ns1:cc "et" ;
+    ns1:mark "pour" .
+
+"sa" ns1:ROOT "sa" ;
+    ns1:obl "Mille" .
+
+"sabbia" ns1:ROOT "sabbia" ;
+    ns1:amod "ruvida" ;
+    ns1:ccomp "imbeve" .
+
+"salto" ns1:conj "fusi" ;
+    ns1:nmod "colui" .
+
+"sandali" ns1:ROOT "sandali" ;
+    ns1:amod "alati" .
+
+"sangue" ns1:amod "maledetto" .
+
+"sanza" ns1:amod "alpe" .
+
+"sapete" ns1:ROOT "sapete" .
+
+"sapeva" ns1:ROOT "sapeva" ;
+    ns1:advmod "esattamente" ;
+    ns1:ccomp "parlava" .
+
+"sappiamo" ns1:ROOT "sappiamo" .
+
+"saura" ns1:iobj "ne" .
+
+"savez" ns1:ROOT "savez" ;
+    ns1:nsubj "mais" .
+
+"scaccia" ns1:advcl "caccerebbe" ;
+    ns1:obj "intruso" .
+
+"scalpitante" ns1:ROOT "scalpitante" ;
+    ns1:conj "rombante" .
+
+"scambievoli" ns1:amod "inviti" .
+
+"scarrozzata" ns1:obl:agent "equipaggio" .
+
+"scattante" ns1:conj "tagliente" .
+
+"scegliamo" ns1:conj "apprezziamo" .
+
+"scegliere" ns1:nsubj "volessi" ;
+    ns1:obj "simbolo" .
+
+"sceglierei" ns1:ROOT "sceglierei" .
+
+"scena" ns1:ROOT "scena" ;
+    ns1:conj "trasportato" ;
+    ns1:nmod "Don" .
+
+"scenario" ns1:amod "montagnoso" .
+
+"scende" ns1:ROOT "scende" ;
+    ns1:nsubj "dalla" ;
+    ns1:obl "corda" .
+
+"schiudo" ns1:ROOT "schiudo" .
+
+"sciamanici" ns1:conj "stregoneschi" .
+
+"sciamano" ns1:ROOT "sciamano" .
+
+"sciupi" ns1:conj "caput" .
+
+"scoprendo" ns1:advmod "allora" .
+
+"scritta" ns1:advmod "Mai" ;
+    ns1:aux:pass "stata" ;
+    ns1:nsubj:pass "Rivoluzione",
+        "perorazione" .
+
+"scritto" ns1:obj "cinquantina" .
+
+"scrittore" ns1:amod "giovane" .
+
+"scrittura" ns1:amod "modello" ;
+    ns1:nmod "processo" .
+
+"scrive" ns1:ROOT "scrive" ;
+    ns1:nsubj "Giacomo",
+        "storia" ;
+    ns1:obl "anni" .
+
+"scrivendo" ns1:conj "dice" .
+
+"scrivere" ns1:ROOT "scrivere" ;
+    ns1:conj "avverte" .
+
+"scrivo" ns1:obj "fiction" .
+
+"se" ns1:amod "stesso" .
+
+"secchio" ns1:aux "può" ;
+    ns1:cop "essere" ;
+    ns1:det "Il",
+        "del",
+        "un" ;
+    ns1:det:poss "nostro" ;
+    ns1:mark "come" .
+
+"secoli" ns1:ROOT "secoli" ;
+    ns1:case "In" ;
+    ns1:conj "civiltà" .
+
+"secolo" ns1:amod "XVIII" .
+
+"segno" ns1:ROOT "segno" .
+
+"segreti" ns1:det "i" .
+
+"seguace" ns1:nsubj "tentazione" .
+
+"seguire" ns1:obj "continuità" ;
+    ns1:obl "forma",
+        "passaggio" .
+
+"sembianza" ns1:ROOT "sembianza" ;
+    ns1:nmod "uccello" .
+
+"sembra" ns1:ROOT "sembra" ;
+    ns1:advmod "Oggi" ;
+    ns1:ccomp "rappresentata",
+        "rendere" ;
+    ns1:nsubj "ossessioni",
+        "preoccupazione",
+        "ramo",
+        "regno" ;
+    ns1:punct ";" ;
+    ns1:xcomp "annullino",
+        "condannato",
+        "destinato",
+        "dimostrare",
+        "dotato" .
+
+"sembrare" ns1:ROOT "sembrare" ;
+    ns1:aux "potrebbe" ;
+    ns1:obj "pleonastico" .
+
+"sembrava" ns1:ROOT "sembrava" ;
+    ns1:ccomp "diventando" .
+
+"sensazione" ns1:nmod "levità" .
+
+"sensismo" ns1:nmod "Gassendi" .
+
+"sensitiva" ns1:conj "anima" .
+
+"senso" ns1:acl:relcl "comunica" ;
+    ns1:amod "verticale" .
+
+"sentire" ns1:aux "vuole" ;
+    ns1:mark "mentre" .
+
+"sentito" ns1:ROOT "sentito" .
+
+"sentivo" ns1:ROOT "sentivo" .
+
+"sento" ns1:advmod "Subito" ;
+    ns1:ccomp "riannodarsi" .
+
+"sepal" ns1:ROOT "sepal" .
+
+"sepalo" ns1:ROOT "sepalo" ;
+    ns1:conj "petalo",
+        "spina" ;
+    ns1:nmod "mattino" .
+
+"serie" ns1:det "parecchie" ;
+    ns1:nmod "corridoi",
+        "sistemi" .
+
+"serrata" ns1:ROOT "serrata" .
+
+"servito" ns1:ROOT "servito" ;
+    ns1:advcl "esemplificare" ;
+    ns1:nsubj "essermi" ;
+    ns1:xcomp "chiarire" .
+
+"several" ns1:flat:name "gradations" .
+
+"sferza" ns1:ROOT "sferza" .
+
+"sfida" ns1:ROOT "sfida" ;
+    ns1:amod "continua" .
+
+"sfilacciare" ns1:obj "lana" .
+
+"sfiora" ns1:ROOT "sfiora" ;
+    ns1:nsubj "grazia" ;
+    ns1:obj "orrore" .
+
+"sfogliare" ns1:obj "libri" .
+
+"sfondo" ns1:amod "culturale" ;
+    ns1:det "Questo" .
+
+"sfuggire" ns1:aux "potesse" .
+
+"sfuggono" ns1:ROOT "sfuggono" ;
+    ns1:nsubj "intelligenza",
+        "vivacità" ;
+    ns1:obl "condanna" .
+
+"sguardo" ns1:amod "allo",
+        "inesorabile" .
+
+"sia" ns1:nsubj "Idio" .
+
+"siccità" ns1:ROOT "siccità" .
+
+"siccome" ns1:fixed "or" .
+
+"sicuri" ns1:advcl "usati" ;
+    ns1:advmod "mai" .
+
+"sides" ns1:case "see" ;
+    ns1:nmod "it" .
+
+"sien" ns1:xcomp "genti" .
+
+"silenzioso" ns1:ROOT "silenzioso" ;
+    ns1:conj "calmo" .
+
+"sillabato" ns1:ROOT "sillabato" .
+
+"simbolo" ns1:amod "augurale" ;
+    ns1:nmod "affacciarsi" .
+
+"simulacro" ns1:amod "umano" .
+
+"sink" ns1:case "do" .
+
+"sintonia" ns1:nmod "spettacolo" .
+
+"situato" ns1:advmod "lontano" ;
+    ns1:obl "linea" .
+
+"situazione" ns1:ROOT "situazione" ;
+    ns1:acl:relcl "ripete" ;
+    ns1:advmod "evidentemente" ;
+    ns1:amod "reale" ;
+    ns1:csubj "scritto" ;
+    ns1:nmod "inverno" .
+
+"siàn" ns1:ROOT "siàn" ;
+    ns1:nsubj "Noi" ;
+    ns1:obj "isbigottite" .
+
+"slega" ns1:ROOT "slega" ;
+    ns1:conj "scaccia" ;
+    ns1:nsubj "moglie" ;
+    ns1:obj "grembiule" .
+
+"smembrato" ns1:ROOT "smembrato" .
+
+"smeriglio" ns1:amod "calpestato" ;
+    ns1:nmod "vetro" .
+
+"smilze" ns1:amod "gambe" .
+
+"so" ns1:ROOT "so" ;
+    ns1:ccomp "arbitrario",
+        "impoverisce" .
+
+"soar" ns1:advmod "them" .
+
+"sofferta" ns1:ROOT "sofferta" ;
+    ns1:ccomp "trasforma" ;
+    ns1:nsubj "della" .
+
+"software" ns1:ccomp "comanda" .
+
+"solido" ns1:advmod "abbastanza" .
+
+"solito" ns1:case "Di" .
+
+"solleva" ns1:advmod "anzi" ;
+    ns1:nsubj "piani" ;
+    ns1:obl "altezza" .
+
+"sollevo" ns1:ROOT "sollevo" ;
+    ns1:expl "Mi" ;
+    ns1:obl "terra" .
+
+"somewhat" ns1:acl "vertiginous" ;
+    ns1:nmod "air" .
+
+"somiglia" ns1:ROOT "somiglia" ;
+    ns1:obl "Budda" .
+
+"sonetto" ns1:amod "ispirato" ;
+    ns1:nmod "Guinizelli" .
+
+"sono" ns1:ccomp "involucri" ;
+    ns1:expl "Ci",
+        "vi" ;
+    ns1:nsubj "invenzioni",
+        "questi" ;
+    ns1:xcomp "considerare" .
+
+"sonore" ns1:conj "emozionali" .
+
+"sopportava" ns1:nsubj "donna" ;
+    ns1:obj "peso" .
+
+"sopra" ns1:conj "cominciarongli" .
+
+"sospensione" ns1:ROOT "sospensione" .
+
+"sospettata" ns1:obl "empietà" .
+
+"sospiri" ns1:nsubj "personaggi" .
+
+"sostanza" ns1:acl:relcl "fatti" ;
+    ns1:amod "permanente",
+        "stessa",
+        "ultima" .
+
+"sostanze" ns1:amod "varie" .
+
+"sostenere" ns1:obj "isola" .
+
+"sosterrò" ns1:ROOT "sosterrò" .
+
+"sostiene" ns1:ROOT "sostiene" .
+
+"sotterranea" ns1:ROOT "sotterranea" ;
+    ns1:conj "alto" ;
+    ns1:nsubj "bottega" .
+
+"sottili" ns1:conj "impercettibili" .
+
+"sottrazione" ns1:ROOT "sottrazione" .
+
+"sovra" ns1:ROOT "sovra" ;
+    ns1:conj "orti" ;
+    ns1:obj "colle" .
+
+"spalle" ns1:nmod "gigante" .
+
+"spaziali" ns1:conj "temporali" .
+
+"specificazioni" ns1:amod "innumerevoli" .
+
+"speculazione" ns1:amod "astratta",
+        "intellettuale" .
+
+"sperare" ns1:mark "senza" ;
+    ns1:obj "nulla" ;
+    ns1:obl "salvarci",
+        "trovarvi" .
+
+"spero" ns1:ROOT "spero" ;
+    ns1:advmod "innanzitutto" ;
+    ns1:xcomp "dimostrato" .
+
+"spesse" ns1:ROOT "spesse" ;
+    ns1:nsubj "cammino" .
+
+"spessore" ns1:ROOT "spessore" .
+
+"spettacolo" ns1:amod "movimentato" .
+
+"spider" ns1:ROOT "spider" ;
+    ns1:amod "smallest" ;
+    ns1:nmod "web" .
+
+"spiegare" ns1:advmod "altrimenti" ;
+    ns1:conj "necessaria" ;
+    ns1:obj "delicatezza" .
+
+"spighe" ns1:conj "fili" .
+
+"spinge" ns1:nsubj "onda" ;
+    ns1:obj "bibula",
+        "sguardo" .
+
+"spiriti" ns1:nmod "ognuno" ;
+    ns1:nummod "14" ;
+    ns1:obj "metalli" .
+
+"spirito" ns1:cc "o" ;
+    ns1:conj "spiritello" ;
+    ns1:det "uno" .
+
+"spoglia" ns1:amod "sanguinosa" .
+
+"sprofondato" ns1:ROOT "sprofondato" ;
+    ns1:advmod "precisamente" ;
+    ns1:obl "tristezza" .
+
+"spronati" ns1:ROOT "spronati" .
+
+"sta" ns1:advcl "tagliato" .
+
+"stabilire" ns1:obj "leggi" .
+
+"stabilito" ns1:ROOT "stabilito" ;
+    ns1:obl "esattezza" .
+
+"staccasse" ns1:ROOT "staccasse" ;
+    ns1:nsubj "pensiero" ;
+    ns1:obl "oscurità",
+        "rapide" .
+
+"stanno" ns1:ROOT "stanno" ;
+    ns1:nsubj "nemici" ;
+    ns1:obl "sopraffarlo" .
+
+"stanza" ns1:amod "buia" .
+
+"stato" ns1:ROOT "stato" ;
+    ns1:mark "Perché" ;
+    ns1:nsubj "miracolo" ;
+    ns1:xcomp "togliere" .
+
+"statua" ns1:nmod "ottone" .
+
+"stavano" ns1:xcomp "guardare" .
+
+"stavo" ns1:ROOT "stavo" ;
+    ns1:advcl "scoprendo" .
+
+"stende" ns1:ROOT "stende" ;
+    ns1:conj "depone" .
+
+"stendo" ns1:ROOT "stendo" ;
+    ns1:obj "braccia" .
+
+"stili" ns1:ROOT "stili" .
+
+"stimola" ns1:advmod "talmente" ;
+    ns1:xcomp "inventare" .
+
+"storia" ns1:nmod "astronomia" .
+
+"strada" ns1:case "Per" .
+
+"streghe" ns1:acl:relcl "volavano" .
+
+"stregonesca" ns1:obj "documentata" ;
+    ns1:obl "etnologia" .
+
+"strofinato" ns1:advmod "laggiù" .
+
+"strumenti" ns1:ROOT "strumenti" ;
+    ns1:acl:relcl "prendono" .
+
+"studi" ns1:amod "affascinanti" ;
+    ns1:nmod "Francis" .
+
+"studiata" ns1:ROOT "studiata" ;
+    ns1:obl "Saturn" .
+
+"succede" ns1:ROOT "succede" .
+
+"succhiato" ns1:advmod "abitualmente" ;
+    ns1:aux:pass "viene" .
+
+"such" ns1:amod "stuff" ;
+    ns1:punct "/" .
+
+"suggestione" ns1:amod "verbale" .
+
+"sui" ns1:conj "scope",
+        "veicoli" ;
+    ns1:flat:name "manici" ;
+    ns1:nsubj "esemplificata" ;
+    ns1:obj "echi" .
+
+"sul" ns1:flat:name "Elicona",
+        "Monte" .
+
+"sulla" ns1:amod "groppa",
+        "scienza" ;
+    ns1:nmod "cammello" .
+
+"sulle" ns1:ROOT "sulle" ;
+    ns1:amod "capitali" ;
+    ns1:flat:name "labbra",
+        "spalle" ;
+    ns1:nmod "Occidente" .
+
+"suonerà" ns1:ROOT "suonerà" ;
+    ns1:nsubj "conclusione" ;
+    ns1:punct "?" ;
+    ns1:xcomp "scontata" .
+
+"suoni" ns1:amod "diversi" .
+
+"supera" ns1:ROOT "supera" ;
+    ns1:obj "illustri" .
+
+"superare" ns1:obj "limite" .
+
+"supplica" ns1:ROOT "supplica" ;
+    ns1:nmod "dargli" ;
+    ns1:nsubj "Lui" ;
+    ns1:obj "li",
+        "palata" .
+
+"sventato" ns1:ccomp "pensa" .
+
+"sviluppato" ns1:ROOT "sviluppato" ;
+    ns1:conj "perfezionato" .
+
+"sviluppatosi" ns1:ROOT "sviluppatosi" ;
+    ns1:advcl "andò" .
+
+"svolgere" ns1:obj "inizio" .
+
+"tagliare" ns1:obj "testa" .
+
+"tagliata" ns1:conj "riannodata" ;
+    ns1:obl "volte" .
+
+"tali" ns1:ROOT "tali" ;
+    ns1:advcl "garantire" .
+
+"tant" ns1:nmod "choses" .
+
+"tanti" ns1:nsubj "materiali" .
+
+"tantôt" ns1:ROOT "tantôt" ;
+    ns1:nmod "corail",
+        "plomb" ;
+    ns1:obj "comète",
+        "fleur" .
+
+"tappeti" ns1:ROOT "tappeti" .
+
+"tappeto" ns1:ROOT "tappeto" ;
+    ns1:amod "volante" .
+
+"tarda" ns1:xcomp "rivelare" .
+
+"team" ns1:nmod "little" .
+
+"tempi" ns1:det:poss "nostri" ;
+    ns1:nmod "neutrini" .
+
+"tempo" ns1:conj "paese" ;
+    ns1:nmod "guerra" .
+
+"tende" ns1:ROOT "tende" ;
+    ns1:nsubj "altra" .
+
+"tends" ns1:ROOT "tends" ;
+    ns1:iobj "te" ;
+    ns1:obj "les" .
+
+"tentando" ns1:obj "attrae",
+        "commenti" .
+
+"tentazione" ns1:nmod "Shakespeare",
+        "costruirmi" .
+
+"tento" ns1:obj "rievocazione" .
+
+"termini" ns1:amod "rigorosi" .
+
+"terreno" ns1:amod "esistenziale" .
+
+"terribile" ns1:ROOT "terribile" ;
+    ns1:obl "impero" ;
+    ns1:punct ":" .
+
+"tessere" ns1:amod "ragnatele" .
+
+"testa" ns1:amod "anguicrinita",
+        "mozzata" .
+
+"testamento" ns1:nmod "Eugenio" .
+
+"testo" ns1:amod "poetico" .
+
+"that" ns1:amod "fact" ;
+    ns1:flat:name "enough",
+        "firm",
+        "was" ;
+    ns1:nmod "had" .
+
+"thorn" ns1:ROOT "thorn" ;
+    ns1:advcl "flask" ;
+    ns1:nmod "Upon",
+        "morn" .
+
+"tirandosi" ns1:obl "coda" .
+
+"tirare" ns1:ROOT "tirare" ;
+    ns1:aux "devo" ;
+    ns1:obl "trovarmi" .
+
+"to" ns1:advcl "ballare" ;
+    ns1:flat:foreign "descend" ;
+    ns1:flat:name "express",
+        "prickle",
+        "soar" .
+
+"toccata" ns1:obl "sorte" .
+
+"togliere" ns1:obj "struttura" ;
+    ns1:xcomp "assomigliare" .
+
+"torna" ns1:ROOT "torna" ;
+    ns1:nsubj "sereno" ;
+    ns1:xcomp "azzurro" .
+
+"tornan" ns1:ROOT "tornan" ;
+    ns1:advmod "giù" ;
+    ns1:obj "ombre" .
+
+"tout" ns1:ROOT "tout" ;
+    ns1:nmod "court" .
+
+"tracce" ns1:acl:relcl "catastrofe" ;
+    ns1:amod "luminose" .
+
+"traccia" ns1:amod "madreperlacea" ;
+    ns1:nmod "lumaca" .
+
+"tradizione" ns1:amod "lunga" ;
+    ns1:nmod "pensatori" .
+
+"traduzione" ns1:amod "francese" .
+
+"tralle" ns1:cop "essendo" .
+
+"trancher" ns1:obj "tête" .
+
+"trasferimento" ns1:acl "definito" .
+
+"trasfigurazione" ns1:amod "fantastica" .
+
+"trasforma" ns1:conj "permette" ;
+    ns1:expl:pass "si" ;
+    ns1:obl "quête" .
+
+"trasformandosi" ns1:obl "giuggiolo" .
+
+"trasformano" ns1:nsubj "alchimisti" ;
+    ns1:obj "crogiolo" .
+
+"trasformarsi" ns1:ROOT "trasformarsi" ;
+    ns1:advcl "agitata" .
+
+"trasformava" ns1:ROOT "trasformava" ;
+    ns1:nsubj "pena" ;
+    ns1:obl "statua" .
+
+"trasmettere" ns1:ROOT "trasmettere" ;
+    ns1:advcl "organizzato" .
+
+"trasparenza" ns1:ROOT "trasparenza" .
+
+"trasporta" ns1:advcl "ondeggiando" .
+
+"trasportandosi" ns1:ROOT "trasportandosi" .
+
+"tratta" ns1:ROOT "tratta" ;
+    ns1:obl "maestro" .
+
+"trattati" ns1:amod "scientifici" .
+
+"trattazione" ns1:det:poss "mia" .
+
+"trattenuta" ns1:conj "attutita" .
+
+"travels" ns1:det "my" .
+
+"traversata" ns1:ROOT "traversata" ;
+    ns1:nmod "carovana" .
+
+"tre" ns1:advmod "almeno" .
+
+"tremendo" ns1:obj "nascosto" .
+
+"tribù" ns1:ROOT "tribù" ;
+    ns1:nsubj "Alla",
+        "esistenza" .
+
+"tristezza" ns1:acl "diventata" ;
+    ns1:amod "capricciosissima" .
+
+"trop" ns1:nmod "trop" .
+
+"troppe" ns1:ROOT "troppe" .
+
+"trova" ns1:advmod "dove" ;
+    ns1:ccomp "reame" ;
+    ns1:nsubj "aiuto",
+        "altri",
+        "oggetto",
+        "ricerche" ;
+    ns1:obj "posto" ;
+    ns1:obl "solito" .
+
+"trovare" ns1:ROOT "trovare" ;
+    ns1:advcl "modificare" ;
+    ns1:aux "possa",
+        "poteva" ;
+    ns1:obj "allegoria",
+        "esemplificazione",
+        "forze" ;
+    ns1:obl "direzione",
+        "voi" .
+
+"trovarmi" ns1:nmod "mani" .
+
+"troverà" ns1:nsubj "vuoto" ;
+    ns1:obl "riempirsi" .
+
+"troviamo" ns1:ROOT "troviamo" .
+
+"tu" ns1:acl "trovato" ;
+    ns1:conj "Lapo" .
+
+"turbinano" ns1:obl "stanza" .
+
+"tutte" ns1:amod "simili" .
+
+"tutto" ns1:amod "prevedibile" ;
+    ns1:case "anch’" .
+
+"t’" ns1:amod "que" .
+
+"uccelli" ns1:ROOT "uccelli" .
+
+"umori" ns1:conj "sensazioni" .
+
+"ungendosi" ns1:ROOT "ungendosi" ;
+    ns1:acl:relcl "succhiato" ;
+    ns1:nmod "midollo" .
+
+"unite" ns1:ROOT "unite" ;
+    ns1:advmod "costantemente" ;
+    ns1:obl:agent "ponte" .
+
+"unito" ns1:ROOT "unito" ;
+    ns1:xcomp "scendere" .
+
+"unità" ns1:amod "minime" .
+
+"universo" ns1:nsubj "Nell’" ;
+    ns1:xcomp "infinito" .
+
+"uno" ns1:amod "ingegnoso" ;
+    ns1:nsubj "esso",
+        "modi" .
+
+"uomini" ns1:acl:relcl "pescavano" ;
+    ns1:det "alcuni" ;
+    ns1:nmod "cavoli" .
+
+"uomo" ns1:acl:relcl "pronto" ;
+    ns1:det "dall’" .
+
+"usati" ns1:aux "verranno" .
+
+"uscire" ns1:obj "alla",
+        "parochialismantropocentrico" ;
+    ns1:obl "carbone" .
+
+"uttered" ns1:ROOT "uttered" ;
+    ns1:flat:name "later" ;
+    ns1:obj "just" .
+
+"va" ns1:ROOT "va" ;
+    ns1:obl "lavarsi" .
+
+"vado" ns1:ROOT "vado" .
+
+"vaghezza" ns1:ROOT "vaghezza" ;
+    ns1:conj "abbandono" .
+
+"vai" ns1:ROOT "vai" .
+
+"vale" ns1:ROOT "vale" ;
+    ns1:nsubj "opposizione" ;
+    ns1:obj "linee" .
+
+"valore" ns1:amod "emblematico" ;
+    ns1:conj "difetto" .
+
+"valori" ns1:acl "investiti" ;
+    ns1:amod "morali" ;
+    ns1:nmod "tracce" .
+
+"varianti" ns1:appos "XIV" .
+
+"varietà" ns1:amod "infinita" ;
+    ns1:det:poss "loro" .
+
+"vedendo" ns1:ROOT "vedendo" ;
+    ns1:obl "sepolture" .
+
+"vederne" ns1:ROOT "vederne" ;
+    ns1:obj "cinti" ;
+    ns1:punct "ond’" .
+
+"vediamo" ns1:ROOT "vediamo" ;
+    ns1:ccomp "annullata" ;
+    ns1:obl "lentezza",
+        "tratto" .
+
+"vedrà" ns1:ROOT "vedrà" ;
+    ns1:nsubj "Galileo" ;
+    ns1:obj "alfabeto" .
+
+"vegetali" ns1:ROOT "vegetali" .
+
+"veggendosi" ns1:ROOT "veggendosi" ;
+    ns1:amod "chiuso" ;
+    ns1:det "lor" .
+
+"veicoli" ns1:amod "leggeri" ;
+    ns1:nmod "paglia",
+        "spighe" .
+
+"velo" ns1:nmod "particelle" .
+
+"venendo" ns1:obl "piazza" .
+
+"venti" ns1:conj "nuvole" .
+
+"vento" ns1:nmod "neve" .
+
+"venuta" ns1:ROOT "venuta" .
+
+"venutosene" ns1:obj "Adimari" ;
+    ns1:obl "Corso" .
+
+"verbi" ns1:acl:relcl "usa" .
+
+"vero" ns1:ccomp "esercitare" .
+
+"versi" ns1:amod "belli" ;
+    ns1:det "pochi" ;
+    ns1:det:poss "suoi" ;
+    ns1:nmod "affaccia" ;
+    ns1:obj "poeti" .
+
+"versioni" ns1:ROOT "versioni" .
+
+"verso" ns1:nmod "venti" .
+
+"vertiginosa" ns1:advmod "alquanto" .
+
+"vettore" ns1:ROOT "vettore" ;
+    ns1:nmod "informazione" .
+
+"via" ns1:det "la" ;
+    ns1:nmod "riflessioni" .
+
+"viaggiare" ns1:obl "Saturno" .
+
+"vicende" ns1:amod "collettive" .
+
+"vicini" ns1:obl "noi" .
+
+"vidi" ns1:ROOT "vidi" ;
+    ns1:obj "uomini" .
+
+"vie" ns1:acl "esplorare" .
+
+"viene" ns1:obl "soccorso" .
+
+"villaggi" ns1:ROOT "villaggi" ;
+    ns1:advmod "nei" ;
+    ns1:ccomp "sopportava" .
+
+"vincitore" ns1:nmod "mostri" .
+
+"vinta" ns1:nsubj:pass "intelletto" ;
+    ns1:obl:agent "chi" .
+
+"vinto" ns1:ROOT "vinto" ;
+    ns1:nsubj "guardandolo" ;
+    ns1:obj "battaglia" .
+
+"virtù" ns1:det "le" ;
+    ns1:det:poss "cui" ;
+    ns1:nmod "logica" .
+
+"visione" ns1:amod "apocalittica",
+        "diretta",
+        "indiretta" .
+
+"visioni" ns1:acl:relcl "dissolta",
+        "precedono" ;
+    ns1:det "queste" ;
+    ns1:det:poss "mie" .
+
+"visor" ns1:ROOT "visor" .
+
+"vissuto" ns1:advmod "pure" .
+
+"vista" ns1:ROOT "vista" .
+
+"visto" ns1:aux "abbiamo" .
+
+"vita" ns1:amod "contemporanea" ;
+    ns1:nmod "costrizioni" .
+
+"vitalità" ns1:ROOT "vitalità" .
+
+"vite" ns1:amod "altre" ;
+    ns1:nmod "Pitagora" .
+
+"vivacità" ns1:conj "mobilità" .
+
+"vivere" ns1:obl "Kundera" .
+
+"vocazioni" ns1:acl "opposte" .
+
+"voce" ns1:ROOT "voce" ;
+    ns1:acl:relcl "canta" ;
+    ns1:amod "femminile" .
+
+"vogliamo" ns1:obj "quanti" .
+
+"vola" ns1:obj "col" ;
+    ns1:obl "aria" .
+
+"volare" ns1:aux "dovrei" ;
+    ns1:obl "Perseo" .
+
+"volavano" ns1:nsubj "sui" ;
+    ns1:obl "arnesi" .
+
+"voleva" ns1:ROOT "voleva" ;
+    ns1:advmod "Forse" ;
+    ns1:obj "raccontarci" .
+
+"volge" ns1:ROOT "volge" ;
+    ns1:obl "anno" .
+
+"volo" ns1:ROOT "volo" ;
+    ns1:amod "magico" .
+
+"volontà" ns1:amod "buona" .
+
+"volta" ns1:advcl "tento" .
+
+"volteggia" ns1:obl "smilze" .
+
+"vorrei" ns1:ROOT "vorrei" ;
+    ns1:ccomp "dedicato" .
+
+"vorremmo" ns1:ROOT "vorremmo" ;
+    ns1:ccomp "accompagnasse" ;
+    ns1:nsubj "passo" .
+
+"vous" ns1:nsubj:pass "Vous",
+        "étonnez" .
+
+"vu" ns1:ROOT "vu" ;
+    ns1:nsubj "y" ;
+    ns1:obj "nécessaires" ;
+    ns1:obl "construction" .
+
+"vuoto" ns1:acl:relcl "solleva" ;
+    ns1:det "il" ;
+    ns1:obl "cerca" .
+
+"was" ns1:flat:name "as",
+        "if" .
+
+"watery" ns1:flat:name "beams" .
+
+"which" ns1:ROOT "which" .
+
+"wings" ns1:ROOT "wings" ;
+    ns1:nmod "grasshoppers" .
+
+"within" ns1:flat:name "her" .
+
+"wraps" ns1:ROOT "wraps" ;
+    ns1:nmod "humorous" .
+
+"y" ns1:amod "avait" ;
+    ns1:nmod "tant" .
+
+"zampe" ns1:amod "Lunghe",
+        "esili" ;
+    ns1:nmod "ragno" .
+
+"è" ns1:advcl "sento" ;
+    ns1:advmod "particolarmente" ;
+    ns1:ccomp "posare",
+        "trattenuta" ;
+    ns1:csubj "pulviscolare" ;
+    ns1:expl "C’",
+        "c’",
+        "lo" .
+
+"étonnez" ns1:flat:name "comme" .
+
+"étourdi" ns1:acl:relcl "saura" .
+
+"’" ns1:amod "tetti" ;
+    ns1:conj "’" ;
+    ns1:flat:name "colli" .
+
+"”" ns1:ROOT "”" .
