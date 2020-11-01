@@ -23,7 +23,6 @@ context = collection.add_context(
 ################################# NAMED ENTITIES ################################################
 for token in doc:
     # named entities from spacy + named entities from tagme
-    #for key, value in named_entity_dict.items():
     for key in entity_list:
         if key == token.text:
             id = key.replace(" ", "_")
