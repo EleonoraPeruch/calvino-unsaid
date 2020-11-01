@@ -2,17 +2,12 @@
 import spacy
 from spacy_langdetect import LanguageDetector
 import re
-#from collections import Counter
 from spacy.symbols import nsubj, csubj, punct, mark, amod, cc, VERB, PRON
 from spacy.pipeline import DependencyParser
 from spacy.lang.it import Italian
 import it_core_news_sm
-#import sys
-#import win_unicode_console
 
 nlp = spacy.load("it_core_news_sm")
-#nlp.add_pipe(LanguageDetector(), name='language_detector', last=True)
-
 
 lezione = "C:/Users/us/Desktop/DHDK/a.a.2019-2020/Tesi/extraction/spacy/KG_dependencies/la_leggerezza.txt"
 
@@ -31,16 +26,6 @@ for token in doc:
     e_dep[str(token)] = {"token_head": token.head.text, "token_dep": token.dep_, "token_text": token.text, #"token_lang": token._.language,
     "token_children": [child.text for child in token.children], "token_start": token.idx, "token_end": (token.idx + len(token.text) - 1)} #, [child for child in token.children]
 #print(e_dep)
-
-
-#------------------languages--------------------------#
-#import xml.etree.ElementTree as ET
-
-#tree = ET.parse("C:/Users/us/Desktop/DHDK/a.a.2019-2020/2nd semester/Laboratory _Tomasi/Mancinelli/project/leggerezza.xml")
-#root = tree.getroot()
-#for tags in root.findall(".//[foreign]"):
-#    print(tags.text)
-#-----------------------------------------------------#
 
 
 #------------------INTERPRETATIVE----------------------#
@@ -110,9 +95,6 @@ for sent in doc.sents:
                     elif m.dep == nsubj and str(m) == "che":
                         child_start = m.idx
                         child_end = m.idx + len(m.text)
-                        #compl_n_sent.add(sent)
-                        #t["compl_n"] = {"head": verb, "dep": "nsubj", "child": "che"}
-                        #up_dep[sent] = t
                         s["rel"] = {"compl_n": {"head": verb.text, "dep": "nsubj", "child": "che",
                         "head_s": head_start, "head_e": head_end, "child_s": child_start, "child_e": child_end}}
                         dep_rel[sent] = s
@@ -133,8 +115,6 @@ for sent in doc.sents:
     # adversative clauses
     for conj in sent:
         if conj.dep_ == cc and conj.text == "ma" or conj.text == "Ma":
-        #if conj.dep_ == cc and conj.text == "ma" or conj.text == "Ma":
-            #re.findall "^[A-Za-z]+ma$"
             head_start = conj.head.idx
             head_end = conj.head.idx + len(conj.head.text)
             child_start = conj.idx
@@ -147,7 +127,6 @@ for sent in doc.sents:
     # final clauses
     for word in sent:
         if word.text == "per" and word.dep == mark:
-            #print(sent[word.i+1])
             head_start = word.head.idx
             head_end = word.head.idx + len(word.head.text)
             child_start = word.idx
@@ -236,7 +215,5 @@ for sent in doc.sents:
                     up_dep.update(dep_sem)
 
 #print(dep_sem)
-
 #print(up_dep)
-
 #print(dep)
