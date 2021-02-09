@@ -1,0 +1,706 @@
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix ns1: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/EleonoraPeruch/calvino-unsaid/blob/master/texts> a nif:ContextCollection ;
+    nif:hasContext <https://github.com/EleonoraPeruch/calvino-unsaid/blob/master/texts/la_leggerezza.txt> ;
+    ns1:conformsTo <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core/2.1> .
+
+<https://github.com/EleonoraPeruch/calvino-unsaid/blob/master/texts/la_leggerezza.txt> a nif:Context,
+        nif:OffsetBasedString ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "47406"^^xsd:nonNegativeInteger ;
+    nif:isString """Dedicherò la prima conferenza all’opposizione leggerezza-peso, e sosterrò le
+ragioni della leggerezza. Questo non vuol dire che io consideri le ragioni del peso
+meno valide, ma solo che sulla leggerezza penso d’aver più cose da dire.
+   Dopo quarant’anni che scrivo fiction, dopo aver esplorato varie strade e
+compiuto esperimenti diversi, è venuta l’ora che io cerchi una definizione
+complessiva per il mio lavoro; proporrei questa: la mia operazione è stata il più
+delle volte una sottrazione di peso; ho cercato di togliere peso ora alle figure
+umane, ora ai corpi celesti, ora alle città; soprattutto ho cercato di togliere peso
+alla struttura del racconto e al linguaggio.
+   In questa conferenza cercherò di spiegare - a me stesso e a voi - perché sono
+stato portato a considerare la leggerezza un valore anziché un difetto; quali sono
+gli esempi tra le opere del passato in cui riconosco il mio ideale di leggerezza;
+come situo questo valore nel presente e come lo proietto nel futuro.
+   Comincerò dall’ultimo punto. Quando ho iniziato la mia attività, il dovere di
+rappresentare il nostro tempo era l’imperativo categorico d’ogni giovane scrittore.
+Pieno di buona volontà, cercavo d’immedesimarmi nell’energia spietata che
+muove la storia del nostro secolo, nelle sue vicende collettive e individuali.
+Cercavo di cogliere una sintonia tra il movimentato spettacolo del mondo, ora
+drammatico ora grottesco, e il ritmo interiore picaresco e avventuroso che mi
+spingeva a scrivere. Presto mi sono accorto che tra i fatti della vita che avrebbero
+dovuto essere la mia materia prima e l’agilità scattante e tagliente che volevo
+animasse la mia scrittura c’era un divario che mi costava sempre più sforzo
+superare. Forse stavo scoprendo solo allora la pesantezza, l’inerzia, l’opacità del
+mondo: qualità che s’attaccano subito alla scrittura, se non si trova il modo di
+sfuggirle.
+   In certi momenti mi sembrava che il mondo stesse diventando tutto di pietra:
+una lenta pietrificazione più o meno avanzata a seconda delle persone e dei
+luoghi, ma che non risparmiava nessun aspetto della vita. Era come se nessuno
+potesse sfuggire allo sguardo inesorabile della Medusa.
+L’unico eroe capace di tagliare la testa della Medusa è Perseo, che vola coi
+sandali alati, Perseo che non rivolge il suo sguardo sul volto della Gorgone ma
+solo sulla sua immagine riflessa nello scudo di bronzo. Ecco che Perseo mi viene
+in soccorso anche in questo momento, mentre mi sentivo già catturare dalla
+morsa di pietra, come mi succede ogni volta che tento una rievocazione storico-
+autobiografica. Meglio lasciare che il mio discorso si componga con le immagini
+della mitologia. Per tagliare la testa di Medusa senza lasciarsi pietrificare, Perseo
+si sostiene su ciò che vi è di più leggero, i venti e le nuvole; e spinge il suo
+sguardo su ciò che può rivelarglisi solo in una visione indiretta, in un’immagine
+catturata da uno specchio. Subito sento la tentazione di trovare in questo mito
+un’allegoria del rapporto del poeta col mondo, una lezione del metodo da seguire
+scrivendo. Ma so che ogni interpretazione impoverisce il mito e lo soffoca: coi
+miti non bisogna aver fretta; è meglio lasciarli depositare nella memoria,
+fermarsi a meditare su ogni dettaglio, ragionarci sopra senza uscire dal loro
+linguaggio di immagini. La lezione che possiamo trarre da un mito sta nella
+letteralità del racconto, non in ciò che vi aggiungiamo noi dal di fuori.
+   Il rapporto tra Perseo e la Gorgone è complesso: non finisce con la
+decapitazione del mostro. Dal sangue della Medusa nasce un cavallo alato,
+Pegaso; la pesantezza della pietra può essere rovesciata nel suo contrario; con
+un colpo di zoccolo sul Monte Elicona, Pegaso fa scaturire la fonte da cui bevono
+le Muse. In alcune versioni del mito, sarà Perseo a cavalcare il meraviglioso
+Pegaso caro alle Muse, nato dal sangue maledetto di Medusa. (Anche i sandali
+alati, d’altronde, provenivano dal mondo dei mostri: Perseo li aveva avuti dalle
+sorelle di Medusa, le Graie dall’unico occhio). Quanto alla testa mozzata, Perseo
+non l’abbandona ma la porta con sé, nascosta in un sacco; quando i nemici
+stanno per sopraffarlo, basta che egli la mostri sollevandola per la chioma di
+serpenti, e quella spoglia sanguinosa diventa un’arma invincibile nella mano
+dell’eroe: un’arma che egli usa solo in casi estremi e solo contro chi merita il
+castigo di diventare la statua di se stesso. Qui certo il mito vuol dirmi qualcosa,
+qualcosa che è implicito nelle immagini e che non si può spiegare altrimenti.
+Perseo riesce a padroneggiare quel volto tremendo tenendolo nascosto, come
+prima l’aveva vinto guardandolo nello specchio. È sempre in un rifiuto della
+visione diretta che sta la forza di Perseo, ma non in un rifiuto della realtà del
+mondo di mostri in cui gli è toccato di vivere, una realtà che egli porta con sé,
+che assume come proprio fardello.
+   Sul rapporto tra Perseo e la Medusa possiamo apprendere qualcosa di più
+leggendo Ovidio nelle Metamorfosi. Perseo ha vinto una nuova battaglia, ha
+massacrato a colpi di spada un mostro marino, ha liberato Andromeda. E ora si
+accinge a fare quello che ognuno di noi farebbe dopo un lavoraccio del genere: va
+a lavarsi le mani. In questi casi il suo problema è dove posare la testa di
+Medusa. E qui Ovidio ha dei versi (IV, 740-752) che mi paiono straordinari per
+spiegare quanta delicatezza d’animo sia necessaria per essere un Perseo,
+vincitore di mostri:
+   “Perché la ruvida sabbia non sciupi la testa anguicrinita (anguiferumque
+caput dura ne laedat harena), egli rende soffice il terreno con uno strato di foglie,
+vi stende sopra dei ramoscelli nati sott’acqua e vi depone la testa di Medusa a
+faccia in giù”. Mi sembra che la leggerezza di cui Perseo è l’eroe non potrebbe
+essere meglio rappresentata che da questo gesto di rinfrescante gentilezza verso
+quell’essere mostruoso e tremendo ma anche in qualche modo deteriorabile,
+fragile. Ma la cosa più inaspettata è il miracolo che ne segue: i ramoscelli marini
+a contatto con la Medusa si trasformano in coralli, e le ninfe per adornarsi di
+coralli accorrono e avvicinano ramoscelli e alghe alla terribile testa.
+   Anche questo incontro d’immagini, in cui la sottile grazia del corallo sfiora
+l’orrore feroce della Gorgone, è così carico di suggestioni che non vorrei sciuparlo
+tentando commenti o interpretazioni. Quel che posso fare è avvicinare a questi
+versi d’Ovidio quelli d’un poeta moderno, Piccolo testamento di Eugenio Montale,
+in cui troviamo pure elementi sottilissimi che sono come emblemi della sua
+poesia (“traccia madreperlacea di lumaca o smeriglio di vetro calpestato”) messi
+a confronto con uno spaventoso mostro infernale, un Lucifero dalle ali di bitume
+che cala sulle capitali dell’Occidente. Mai come in questa poesia scritta nel 1953,
+Montale ha evocato una visione così apocalittica, ma ciò che i suoi versi mettono
+in primo piano sono quelle minime tracce luminose che egli contrappone alla
+buia catastrofe (“Conservane la cipria nello specchietto quando spenta ogni
+lampada la sardana si farà infernale...”). Ma come possiamo sperare di salvarci
+in ciò che è più fragile? Questa poesia di Montale è una professione di fede nella
+persistenza di ciò che più sembra destinato a perire, e nei valori morali investiti
+nelle tracce più tenui: “il tenue bagliore strofinato laggiù non era quello d’un
+fiammifero”.
+   Ecco che per riuscire a parlare della nostra epoca, ho dovuto fare un lungo
+giro, evocare la fragile Medusa di Ovidio e il bituminoso Lucifero di Montale. È
+difficile per un romanziere rappresentare la sua idea di leggerezza, esemplificata
+sui casi della vita contemporanea, se non facendone l’oggetto irraggiungibile
+d’una quête senza fine. È quanto ha fatto con evidenza e immediatezza Milan
+Kundera. Il suo romanzo L’Insostenibile Leggerezza dell’Essere è in realtà
+un’amara constatazione dell’Ineluttabile Pesantezza del Vivere: non solo della
+condizione d’oppressione disperata e all-pervading che è toccata in sorte al suo
+sventurato paese, ma d’una condizione umana comune anche a noi, pur
+infinitamente più fortunati. Il peso del vivere per Kundera sta in ogni forma di
+costrizione: la fitta rete di costrizioni pubbliche e private che finisce per
+avvolgere ogni esistenza con nodi sempre più stretti. Il suo romanzo ci dimostra
+come nella vita tutto quello che scegliamo e apprezziamo come leggero non tarda
+a rivelare il proprio peso insostenibile. Forse solo la vivacità e la mobilità
+dell’intelligenza sfuggono a questa condanna: le qualità con cui è scritto il
+romanzo, che appartengono a un altro universo da quello del vivere.
+   Nei momenti in cui il regno dell’umano mi sembra condannato alla
+pesantezza, penso che dovrei volare come Perseo in un altro spazio. Non sto
+parlando di fughe nel sogno o nell’irrazionale. Voglio dire che devo cambiare il
+mio approccio, devo guardare il mondo con un’altra ottica, un’altra logica, altri
+metodi di conoscenza e di verifica. Le immagini di leggerezza che io cerco non
+devono lasciarsi dissolvere come sogni dalla realtà del presente e del futuro...
+   Nell’universo infinito della letteratura s’aprono sempre altre vie da esplorare,
+nuovissime o antichissime, stili e forme che possono cambiare la nostra
+immagine del mondo... Ma se la letteratura non basta ad assicurarmi che non
+sto solo inseguendo dei sogni, cerco nella scienza alimento per le mie visioni in
+cui ogni pesantezza viene dissolta...
+   Oggi ogni ramo della scienza sembra ci voglia dimostrare che il mondo si
+regge su entità sottilissime: come i messaggi del Dna, gli impulsi dei neuroni, i
+quarks, i neutrini vaganti nello spazio dall’inizio dei tempi...
+   Poi, l’informatica. È vero che il software non potrebbe esercitare i poteri della
+sua leggerezza se non mediante la pesantezza del hardware; ma è il software che
+comanda, che agisce sul mondo esterno e sulle macchine, le quali esistono solo
+in funzione del software, si evolvono in modo d’elaborare programmi sempre più
+complessi. La seconda rivoluzione industriale non si presenta come la prima con
+immagini schiaccianti quali presse di laminatoi o colate d’acciaio, ma come i bits
+d’un flusso d’informazione che corre sui circuiti sotto forma d’impulsi elettronici.
+Le macchine di ferro ci sono sempre, ma obbediscono ai bits senza peso.
+   È legittimo estrapolare dal discorso delle scienze un’immagine del mondo che
+corrisponda ai miei desideri? Se l’operazione che sto tentando mi attrae, è
+perché sento che essa potrebbe riannodarsi a un filo molto antico nella storia
+della poesia.
+   Il De rerum natura di Lucrezio è la prima grande opera di poesia in cui la
+conoscenza del mondo diventa dissoluzione della compattezza del mondo,
+percezione di ciò che è infinitamente minuto e mobile e leggero. Lucrezio vuole
+scrivere il poema della materia ma ci avverte subito che la vera realtà di questa
+materia è fatta di corpuscoli invisibili. È il poeta della concretezza fisica, vista
+nella sua sostanza permanente e immutabile, ma per prima cosa ci dice che il
+vuoto è altrettanto concreto che i corpi solidi. La più grande preoccupazione di
+Lucrezio sembra quella di evitare che il peso della materia ci schiacci. Al
+momento di stabilire le rigorose leggi meccaniche che determinano ogni evento,
+egli sente il bisogno di permettere agli atomi delle deviazioni imprevedibili dalla
+linea retta, tali da garantire la libertà tanto alla materia quanto agli esseri
+umani. La poesia dell’invisibile, la poesia delle infinite potenzialità imprevedibili,
+così come la poesia del nulla nascono da un poeta che non ha dubbi sulla
+fisicità del mondo.
+   Questa polverizzazione della realtà s’estende anche agli aspetti visibili, ed è là
+che eccelle la qualità poetica di Lucrezio: i granelli di polvere che turbinano in
+un raggio di sole in una stanza buia (II, 114-124); le minute conchiglie tutte
+simili e tutte diverse che l’onda mollemente spinge sulla bibula harena, sulla
+sabbia che s’imbeve (II, 374-376); le ragnatele che ci avvolgono senza che noi ce
+ne accorgiamo mentre camminiamo (III, 381-390).
+   Ho già citato le Metamorfosi d’Ovidio, un altro poema enciclopedico (scritto
+una cinquantina d’anni più tardi di quello di Lucrezio) che parte, anziché dalla
+realtà fisica, dalle favole mitologiche. Anche per Ovidio tutto può trasformarsi in
+nuove forme; anche per Ovidio la conoscenza del mondo è dissoluzione della
+compattezza del mondo; anche per Ovidio c’è una parità essenziale tra tutto ciò
+che esiste, contro ogni gerarchia di poteri e di valori. Se il mondo di Lucrezio è
+fatto d’atomi inalterabili, quello d’Ovidio è fatto di qualità, d’attributi, di forme
+che definiscono la diversità d’ogni cosa e pianta e animale e persona; ma questi
+non sono che tenui involucri d’una sostanza comune che, - se agitata da
+profonda passione - può trasformarsi in quel che vi è di più diverso.
+   È nel seguire la continuità del passaggio da una forma a un’altra che Ovidio
+dispiega le sue ineguagliabili doti: quando racconta come una donna s’accorge
+che sta trasformandosi in giuggiolo: i piedi le rimangono inchiodati per terra,
+una corteccia tenera sale a poco a poco e le serra le inguini; fa per strapparsi i
+capelli e ritrova la mano piena di foglie. O quando racconta delle dita di Aracne,
+agilissime nell’agglomerare e sfilacciare la lana, nel far girare il fuso, nel muovere
+l’ago da ricamo, e che a un tratto vediamo allungarsi in esili zampe di ragno e
+mettersi a tessere ragnatele.
+   Tanto in Lucrezio quanto in Ovidio la leggerezza è un modo di vedere il
+mondo che si fonda sulla filosofia e sulla scienza: le dottrine di Epicuro per
+Lucrezio, le dottrine di Pitagora per Ovidio (un Pitagora che, come Ovidio ce lo
+presenta, somiglia molto a Budda). Ma in entrambi i casi la leggerezza è
+qualcosa che si crea nella scrittura, con i mezzi linguistici che sono quelli del
+poeta, indipendentemente dalla dottrina del filosofo che il poeta dichiara di voler
+seguire.
+   Da quanto ho detto fin qui mi pare che il concetto di leggerezza cominci a
+precisarsi; spero innanzitutto d’aver dimostrato che esiste una leggerezza della
+pensosità, così come tutti sappiamo che esiste una leggerezza della frivolezza;
+anzi, la leggerezza pensosa può far apparire la frivolezza come pesante e opaca.
+   Non potrei illustrare meglio questa idea che con una novella del Decameron
+(VI, 9) dove appare il poeta fiorentino Guido Cavalcanti. Boccaccio ci presenta
+Cavalcanti come un austero filosofo che passeggia meditando tra i sepolcri di
+marmo davanti a una chiesa. La jeunesse dorée fiorentina cavalcava per la città
+in brigate che passavano da una festa all’altra, sempre cercando occasioni
+d’ampliare il loro giro di scambievoli inviti. Cavalcanti non era popolare tra loro,
+perché, benché fosse ricco ed elegante, non accettava mai di far baldoria con loro
+e perché la sua misteriosa filosofia era sospettata d’empietà:
+   Ora avvenne un giorno che, essendo Guido partito d’Orto San Michele e venutosene
+per lo Corso degli Adimari infino a San Giovanni, il quale spesse volte era suo cammino,
+essendo arche grandi di marmo, che oggi sono in Santa Reparata, e molte altre dintorno
+a San Giovanni, e egli essendo tralle colonne del porfido che vi sono e quelle arche e la
+porta di San Giovanni, che serrata era, messer Betto con sua brigata a caval venendo su
+per la piazza di Santa Reparata, vedendo Guido là tra quelle sepolture, dissero:
+“Andiamo a dargli briga”; e spronati i cavalli, a guisa d’uno assalto sollazzevole gli
+furono, quasi prima che egli se ne avvedesse, sopra e cominciarongli a dire: “Guido, tu
+rifiuti d’esser di nostra brigata; ma ecco, quando tu avrai trovato che Idio non sia, che
+avrai fatto?”. A’ quali Guido, da lor veggendosi chiuso, prestamente disse: “Signori, voi
+mi potete dire a casa vostra ciò che vi piace”; e posta la mano sopra una di quelle arche,
+che grandi erano, sì come colui che leggerissimo era, prese un salto e fusi gittato
+dall’altra parte, e sviluppatosi da loro se n’andò.
+   Ciò che qui ci interessa non è tanto la battuta attribuita a Cavalcanti, (che si
+può interpretare considerando che il preteso “epicureismo” del poeta era in
+realtà averroismo, per cui l’anima individuale fa parte dell’intelletto universale: le
+tombe sono casa vostra e non mia in quanto la morte corporea è vinta da chi
+s’innalza alla contemplazione universale attraverso la speculazione
+dell’intelletto). Ciò che ci colpisce è l’immagine visuale che Boccaccio evoca:
+Cavalcanti che si libera d’un salto “sì come colui che leggerissimo era”.
+   Se volessi scegliere un simbolo augurale per l’affacciarsi al nuovo millennio,
+sceglierei questo: l’agile salto improvviso del poeta- filosofo che si solleva sulla
+pesantezza del mondo, dimostrando che la sua gravità contiene il segreto della
+leggerezza, mentre quella che molti credono essere la vitalità dei tempi,
+rumorosa, aggressiva, scalpitante e rombante, appartiene al regno della morte,
+come un cimitero d’automobili arrugginite.
+   Vorrei che conservaste quest’immagine nella mente, ora che vi parlerò di
+Cavalcanti poeta della leggerezza. Nelle sue poesie le “dramatis personae” più
+che personaggi umani sono sospiri, raggi luminosi, immagini ottiche, e
+soprattutto quegli impulsi o messaggi immateriali che egli chiama “spiriti”. Un
+tema niente affatto leggero come la sofferenza d’amore, viene dissolto da
+Cavalcanti in entità impalpabili che si spostano tra anima sensitiva e anima
+intellettiva, tra cuore e mente, tra occhi e voce. Insomma, si tratta sempre di
+qualcosa che è contraddistinto da tre caratteristiche: 1) è leggerissimo; 2) è in
+movimento; 3) è un vettore d’informazione. In alcune poesie questo messaggio-
+messaggero è lo stesso testo poetico: nella più famosa di tutte, il poeta esiliato si
+rivolge alla ballata che sta scrivendo e dice: “Va tu, leggera e piana dritt’a la
+donna mia”. In un’altra sono gli strumenti della scrittura - penne e arnesi per far
+la punta alle penne - che prendono la parola: “Noi siàn le triste penne isbigottite,
+le cesoiuzze e ‘l coltellin dolente...”. In un sonetto la parola “spirito” o “spiritello”
+compare in ogni verso: in un’evidente autoparodia, Cavalcanti porta alle ultime
+conseguenze la sua predilezione per quella parola-chiave, concentrando nei 14
+versi un complicato racconto astratto in cui intervengono 14 “spiriti” ognuno con
+una diversa funzione. In un altro sonetto, il corpo viene smembrato dalla
+sofferenza amorosa, ma continua a camminare come un automa “fatto di rame o
+di pietra o di legno”. Già in un sonetto di Guinizelli la pena amorosa trasformava
+il poeta in una statua d’ottone: un’immagine molto concreta, che ha la forza
+proprio nel senso di peso che comunica. In Cavalcanti, il peso della materia si
+dissolve per il fatto che i materiali del simulacro umano possono essere tanti,
+intercambiabili; la metafora non impone un oggetto solido, e neanche la parola
+“pietra” arriva ad appesantire il verso. Ritroviamo quella parità di tutto ciò che
+esiste di cui ho parlato a proposito di Lucrezio e di Ovidio. Un maestro della
+critica stilistica italiana, Gianfranco Contini, la definisce “parificazione
+cavalcantiana dei reali”.
+   L’esempio più felice di “parificazione dei reali”, Cavalcanti lo dà in un sonetto
+che s’apre con una enumerazione d’immagini di bellezza, tutte destinate a essere
+superate dalla bellezza della donna amata:
+
+
+   Biltà di donna e di saccente core
+   e cavalieri armati che sien genti;
+   cantar d’augelli e ragionar d’amore;
+   adorni legni ‘n mar forte correnti;
+
+
+   aria serena quand’apar l’albore
+   e bianca neve scender senza venti;
+   rivera d’acqua e prato d’ogni fiore;
+   oro, argento, azzurro ‘n ornamenti:
+
+   Il verso “e bianca neve scender senza venti” è stato ripreso con poche varianti
+da Dante nell’Inferno (XIV, 30): “come di neve in alpe sanza vento”. I due versi
+sono quasi identici, eppure esprimono due concezioni completamente diverse. In
+entrambi la neve senza vento evoca un movimento lieve e silenzioso. Ma qui si
+ferma la somiglianza e comincia la diversità. In Dante il verso è dominato dalla
+specificazione del luogo (“in alpe”), che evoca uno scenario montagnoso. Invece
+in Cavalcanti l’aggettivo “bianca”, che potrebbe sembrare pleonastico, unito al
+verbo “scendere”, anch’esso del tutto prevedibile, cancellano il paesaggio in
+un’atmosfera di sospesa astrazione. Ma è soprattutto la prima parola a
+determinare il diverso significato dei due versi. In Cavalcanti la congiunzione “e”
+mette la neve sullo stesso piano delle altre visioni che la precedono e la seguono:
+una fuga di immagini, che è come un campionario delle bellezze del mondo. In
+Dante l’avverbio “come” rinchiude tutta la scena nella cornice d’una metafora,
+ma all’interno di questa cornice essa ha una sua realtà concreta, così come una
+realtà non meno concreta e drammatica ha il paesaggio dell’Inferno sotto una
+pioggia di fuoco, per illustrare il quale viene introdotta la similitudine con la
+neve. In Cavalcanti tutto si muove così rapidamente che non possiamo renderci
+conto della sua consistenza ma solo dei suoi effetti; in Dante, tutto acquista
+consistenza e stabilità: il peso delle cose è stabilito con esattezza. Anche quando
+parla di cose lievi, Dante sembra voler rendere il peso esatto di questa
+leggerezza: “come di neve in alpe sanza vento”. Così come in un altro verso molto
+simile, la pesantezza d’un corpo che affonda nell’acqua e scompare è come
+trattenuta e attutita: “come per acqua cupa cosa grave” (Paradiso III, 123).
+   A questo punto dobbiamo ricordarci che l’idea del mondo come costituito
+d’atomi senza peso ci colpisce perché abbiamo esperienza del peso delle cose;
+così come non potremmo ammirare la leggerezza del linguaggio se non
+sapessimo ammirare anche il linguaggio dotato di peso.
+   Possiamo dire che due vocazioni opposte si contendono il campo della
+letteratura attraverso i secoli: l’una tende a fare del linguaggio un elemento
+senza peso, che aleggia sopra le cose come una nube, o meglio un pulviscolo
+sottile, o meglio ancora come un campo d’impulsi magnetici; l’altra tende a
+comunicare al linguaggio il peso, lo spessore, la concretezza delle cose, dei corpi,
+delle sensazioni.
+   Alle origini della letteratura italiana - e europea - queste due vie sono aperte
+da Cavalcanti e da Dante. L’opposizione vale naturalmente nelle sue linee
+generali, ma richiederebbe innumerevoli specificazioni, data l’enorme ricchezza
+di risorse di Dante e la sua straordinaria versatilità. Non è un caso che il sonetto
+di Dante ispirato alla più felice leggerezza (“Guido, i’ vorrei che tu e Lapo ed io”)
+sia dedicato a Cavalcanti. Nella Vita nuova, Dante tratta la stessa materia del
+suo maestro e amico, e vi sono parole, motivi e concetti che si trovano in
+entrambi i poeti; quando Dante vuole esprimere leggerezza, anche nella Divina
+Commedia, nessuno sa farlo meglio di lui; ma la sua genialità si manifesta nel
+senso opposto, nell’estrarre dalla lingua tutte le possibilità sonore ed emozionali
+e d’evocazione di sensazioni, nel catturare nel verso il mondo in tutta la varietà
+dei suoi livelli e delle sue forme e dei suoi attributi, nel trasmettere il senso che il
+mondo è organizzato in un sistema, in un ordine, in una gerarchia dove tutto
+trova il suo posto. Forzando un po’ la contrapposizione potrei dire che Dante dà
+solidità corporea anche alla più astratta speculazione intellettuale, mentre
+Cavalcanti dissolve la concretezza dell’esperienza tangibile in versi dal ritmo
+scandito, sillabato, come se il pensiero si staccasse dall’oscurità in rapide
+scariche elettriche.
+   L’essermi soffermato su Cavalcanti m’è servito a chiarire meglio (almeno a me
+stesso) cosa intendo per “leggerezza”. La leggerezza per me si associa con la
+precisione e la determinazione, non con la vaghezza e l’abbandono al caso. Paul
+Valéry ha detto: “Il faut être léger comme l’oiseau, et non comme la plume”.
+   Mi sono servito di Cavalcanti per esemplificare la leggerezza in almeno tre
+accezioni diverse:
+   1) un alleggerimento del linguaggio per cui i significati vengono convogliati su
+un tessuto verbale come senza peso, fino ad assumere la stessa rarefatta
+consistenza.
+   Lascio a voi trovare altri esempi in questa direzione. Per esempio Emily
+Dickinson può fornircene quanti vogliamo:
+
+
+   A sepal, petal, and a thorn
+   Upon a common summer’s morn –
+   A flask of Dew - a Bee or two –
+   A Breeze – a caper in the trees –
+   And I’m a Rose!
+
+
+   Un sepalo ed un petalo e una spina
+   In un comune mattino d’estate,
+   Un fiasco di rugiada, un’ape o due,
+   Una brezza,
+   Un frullo in mezzo agli alberi –
+   Ed io sono una rosa!
+
+
+   2) la narrazione d’un ragionamento o d’un processo psicologico in cui
+agiscono elementi sottili e impercettibili, o qualunque descrizione che comporti
+un alto grado d’astrazione.
+   E qui per cercare un esempio più moderno possiamo provare con Henry
+James, anche aprendo un suo libro a caso:
+
+   It was as if these depths, constantly bridged over by a structure that was firm
+enough in spite of its lightness and of its occasional oscillation in the somewhat
+vertiginous air, invited on occasion, in the interest of their nerves, a dropping of the
+plummet and a measurement of the abyss. A difference had been made moreover, once
+for all, by the fact that she had, all the while, not appered to feel the need of rebutting
+his charge of an idea within her that she didn’t dare to express, uttered just before one
+of the fullest of their later discussions ended. (The Beast in the Jungle)
+
+   Queste profondità, costantemente unite da un ponte abbastanza solido malgrado la
+sua levità e le sue occasionali oscillazioni nell’aria alquanto vertiginosa, richiedevano
+ogni tanto, nell’interesse dei loro nervi, la calata dello scandaglio e la misurazione
+dell’abisso. Una differenza, inoltre, era stata creata una volta per sempre dal fatto che
+May, durante tutto il tempo, non parve sentire la necessità di respingere l’accusa di
+celare un’idea, che non osava esprimere, accusa che Marcher le mosse proprio alla fine
+di una delle loro ultime discussioni.
+
+   3) una immagine figurale di leggerezza che assuma un valore emblematico,
+come, nella novella di Boccaccio, Cavalcanti che volteggia con le sue smilze
+gambe sopra la pietra tombale.
+
+   Ci sono invenzioni letterarie che s’impongono alla memoria per la loro
+suggestione verbale più che per le parole. La scena di Don Quijote che infilza con
+la lancia una pala del mulino a vento e viene trasportato in aria occupa poche
+righe del romanzo di Cervantes; si può dire che in essa l’autore non ha investito
+che in minima misura le risorse della sua scrittura; ciononostante essa resta
+uno dei luoghi più famosi della letteratura di tutti i tempi.
+
+   Penso che con queste indicazioni posso mettermi a sfogliare i libri della mia
+biblioteca in cerca d’esempi di leggerezza. In Shakespeare vado subito a cercare
+il punto in cui Mercuzio entra in scena: “You are a lover; borrow Cupid’s wings /
+and soar with them above a common bound” (Tu sei innamorato: fatti prestare le
+ali da Cupido e levati più alto d’un salto). Mercuzio contraddice subito Romeo
+che ha appena detto: “Under love’s heavy burden do I sink” (io sprofondo sotto
+un peso d’amore). Il modo di Mercuzio di muoversi nel mondo è definito dai
+primi verbi che usa: to dance, to soar, to prickle (ballare, levarsi, pungere). La
+sembianza umana è una maschera, a visor. È appena entrato in scena e già
+sente il bisogno di spiegare la sua filosofia, non con un discorso teorico, ma
+raccontando un sogno: la Regina Mab. Queen Mab, the fairies’ midwife, appare
+su una carrozza fatta con “an empty hazel-nut” (La Regina Mab, levatrice delle
+fate [appare su una carrozza fatta con] “un guscio di nocciola”);
+
+
+   Her waggon-spokes made of long spinners’ legs;
+   The cover, of the wings of grasshoppers;
+   The traces, of the smallest spider’s web;
+   The collars, of the moonshine’s watery beams;
+   Her whip, of cricket’s bone; the lash, of film;
+
+
+   Lunghe zampe di ragno sono i raggi delle sue ruote; d’elitre di cavalletta è il mantice;
+di ragnatela della più sottile i finimenti; roridi raggi di luna i pettorali; manico della
+frusta un osso di grillo; sferza, un filo senza fine
+
+
+   e non dimentichiamo che questa carrozza è “drawn with a team of little
+atomies” (scarrozzata da un equipaggio d’atomi impalpabili): un dettaglio
+decisivo, mi sembra, che permette al sogno della Regina Mab di fondere
+atomismo lucreziano, neoplatonismo rinascimentale e celtic-lore.
+   Anche il passo danzante di Mercuzio vorremmo che ci accompagnasse fin
+oltre la soglia del nuovo millennio. L’epoca che fa da sfondo a Romeo and Juliet
+ha molti aspetti non troppo dissimili da quelli dei nostri tempi: le città
+insanguinate da contese violente non meno insensate di quelle tra Capuleti e
+Montecchi; la liberazione sessuale predicata dalla Nurse che non riesce a
+diventare modello d’amore universale; gli esperimenti di Friar Laurence condotti
+col generoso ottimismo della sua “filosofia naturale” ma che non si è mai sicuri
+se verranno usati per la vita o per la morte.
+
+   Il Rinascimento shakespeariano conosce gli influssi eterei che connettono
+macrocosmo e microcosmo, dal firmamento neoplatonico agli spiriti dei metalli
+che si trasformano nel crogiolo degli alchimisti. Le mitologie classiche possono
+fornire il loro repertorio di ninfe e di driadi, ma le mitologie celtiche sono certo
+più ricche nella imagerie delle più sottili forze naturali coi loro elfi e le loro fate.
+Questo sfondo culturale (penso naturalmente agli affascinanti studi di Francis
+Yates sulla filosofia occulta del Rinascimento e sui suoi echi nella letteratura)
+spiega perché in Shakespeare si possa trovare l’esemplificazione più ricca del
+mio tema. E non sto pensando solo a Puck e a tutta la fantasmagoria del Dream,
+o a Ariel e a tutti coloro che “are such stuff / As dreams are made on,” (noi
+siamo della stessa sostanza di cui son fatti i sogni), ma soprattutto a quella
+speciale modulazione lirica ed esistenziale che permette di contemplare il proprio
+dramma come dal di fuori e dissolverlo in malinconia e ironia.
+   La gravità senza peso di cui ho parlato a proposito di Cavalcanti riaffiora
+nell’epoca di Cervantes e di Shakespeare: è quella speciale connessione tra
+melanconia e umorismo, che è stata studiata in Saturn and Melancholy da
+Klibansky, Panofsky, Saxl. Come la melanconia è la tristezza diventata leggera,
+così lo humour è il comico che ha perso la pesantezza corporea (quella
+dimensione della carnalità umana che pur fa grandi Boccaccio e Rabelais) e
+mette in dubbio l’io e il mondo e tutta la rete di relazioni che li costituiscono.
+   Melanconia e humour mescolati e inseparabili caratterizzano l’accento del
+Principe di Danimarca che abbiamo imparato a riconoscere in tutti o quasi i
+drammi shakespeariani sulle labbra dei tanti avatars del personaggio Amleto.
+Uno di essi, Jaques in As You Like It, così definisce la melanconia (atto IV, scena
+I):
+
+
+      ...but it is a melancholy of my own, compounded of many simples, extracted from
+many objects, and indeed the sundry contemplation of my travels, which, by often
+rumination, wraps me in a most humorous sadness.
+
+
+      ...è la mia peculiare malinconia composta da elementi diversi, quintessenza di varie
+sostanze, e più precisamente di tante differenti esperienze di viaggi durante i quali quel
+perpetuo ruminare mi ha sprofondato in una capricciosissima tristezza.
+
+
+      Non è una melanconia compatta e opaca, dunque, ma un velo di particelle
+minutissime d’umori e sensazioni, un pulviscolo d’atomi come tutto ciò che
+costituisce l’ultima sostanza della molteplicità delle cose.
+      Confesso che la tentazione di costruirmi uno Shakespeare seguace
+dell’atomismo lucreziano è per me molto forte, ma so che sarebbe arbitrario. Il
+primo scrittore del mondo moderno che fa esplicita professione d’una concezione
+atomistica dell’universo nella sua trasfigurazione fantastica, lo troviamo solo
+alcuni anni dopo, in Francia: Cyrano de Bergerac.
+      Straordinario scrittore, Cyrano, che meriterebbe d’essere più ricordato, e non
+solo come primo vero precursore della fantascienza, ma per le sue qualità
+intellettuali e poetiche. Seguace del sensismo di Gassendi e dell’astronomia di
+Copernico, ma soprattutto nutrito della “filosofia naturale” del Rinascimento
+italiano - Cardano, Bruno, Campanella - Cyrano è il primo poeta dell’atomismo
+nelle letterature moderne. In pagine la cui ironia non fa velo a una vera
+commozione cosmica, Cyrano celebra l’unità di tutte le cose, inanimate o
+animate, la combinatoria di figure elementari che determina la varietà delle
+forme viventi, e soprattutto egli rende il senso della precarietà dei processi che le
+hanno create: cioè quanto poco è mancato perché l’uomo non fosse l’uomo, e la
+vita la vita, e il mondo un mondo.
+
+
+      Vous vous étonnez comme cette matière, brouillèe pêle-mêle, au gré du hasard, peut
+avoir constitué un homme, vu qu’il y avait tant de choses nécessaires à la construction
+de son être, mais vous ne savez pas que cent milions de fois cette matière, s’acheminant
+au dessein d’un homme, s’est arrêtée à former tantôt une pierre, tantôt du plomb, tantôt
+du corail, tantôt une fleur, tantôt une comète, pour le trop ou trop peu de
+certaines figures qu’il fallait ou ne fallait pas à désigner un homme? Si bien que ce n’est
+pas merveille qu’entre une infinie quantité de matière qui change et se remue
+incessamment, elle ait rencontré à faire le peu d’animaux, de végétaux, de minéraux
+que nous voyons; non plus que ce n’est pas merveille qu’en cent coups de dés il arrive
+une rafle. Aussi bien est-il impossible que de ce remuement il ne se fasse quelque
+chose, et cette chose sera toujours admirée d’un étourdi qui ne saura pas combien peu
+s’en est fallu qu’elle n’ait pas été faite.
+    (Voyage dans la Lune)
+
+    Vi meravigliate come questa materia mescolata alla rinfusa, in balia del caso, può
+aver costituito un uomo, visto che c’erano tante cose necessarie alla costruzione del suo
+essere, ma non sapete che cento milioni di volte questa materia, mentre era sul punto di
+produrre un uomo, si è fermata a formare ora una pietra, ora del piombo, ora del
+corallo, ora un fiore, ora una cometa, per le troppe o troppo poche figure che
+occorrevano o non occorrevano per progettare un uomo. Come non fa meraviglia che tra
+un’infinita quantità di materia che cambia e si muove incessantemente, sia capitato di
+fare i pochi animali, vegetali, minerali che vediamo, così come non fa meraviglia che su
+cento colpi di dadi esca una pariglia. È pertanto impossibile che da questo lieve
+movimento non si faccia qualcosa, e questa cosa sarà sempre fonte di stupore per uno
+sventato che non pensa quanto poco è mancato perché non fosse fatta.
+
+    Per questa via Cyrano arriva a proclamare la fraternità degli uomini con i
+cavoli, e così immagina la protesta d’un cavolo che sta per essere tagliato:
+
+    “Homme, mon cher frère, que t’ai-je fait qui mérite la mort? (...) Je me lève de terre,
+je m’épanouis, je te tends les bras, je t’offre mes enfants en graine, et pour récompense
+de ma courtoisie, tu me fais trancher la tête!”.
+
+    “mio caro fratello uomo, che cosa ho fatto per meritare la morte? (...) Mi sollevo da
+terra, mi schiudo, stendo le braccia, ti offro i miei figli in seme e, per ricompensa della
+mia cortesia, tu mi fai tagliare la testa!”.
+
+    Se pensiamo che questa perorazione per una vera fraternità universale è
+stata scritta quasi centocinquant’anni prima della Rivoluzione francese, vediamo
+come la lentezza della coscienza umana a uscire dal suo parochialismantropocentrico
+può essere annullata in un istante dall’invenzione poetica. Tutto
+questo nel contesto d’un viaggio sulla luna, dove Cyrano de Bergerac supera per
+immaginazione i suoi più illustri predecessori, Luciano di Samosata e Ludovico
+Ariosto. Nella mia trattazione sulla leggerezza, Cyrano figura soprattutto per il
+modo in cui, prima di Newton, egli ha sentito il problema della gravitazione
+universale; o meglio, è il problema di sottrarsi alla forza di gravità che stimola
+talmente la sua fantasia da fargli inventare tutta una serie di sistemi per salire
+sulla luna, uno più ingegnoso dell’altro: con fiale piene di rugiada che evaporano
+al sole; ungendosi di midollo di bue che viene abitualmente succhiato dalla luna;
+con una palla calamitata lanciata in aria verticalmente ripetute volte da una
+navicella.
+   Quanto al sistema della calamita, sarà sviluppato e perfezionato da Jonathan
+Swift per sostenere in aria l’isola volante di Laputa. È un momento, quello
+dell’apparizione di Laputa in volo, in cui le due ossessioni di Swift sembra si
+annullino in un magico equilibrio: dico l’astrazione incorporea del razionalismo
+contro il quale egli dirige la sua satira, e il peso materiale della corporeità.
+
+   …and I could see the sides of it, encompassed with several gradations of Galleries
+and Stairs, at certain intervals, to descend from one to the other. In the lowest Gallery I
+beheld some People fishing with long Angling Rods, and others looking on.
+
+   ...ond’io potei vederne i fianchi cinti di parecchie serie di corridoi e scalinate, a certi
+dati intervalli, per poter discendere da uno in altro corridoio. Nella più bassa di queste
+gallerie, vidi alcuni uomini che pescavano con certe lunghe canne, ed altri che stavano a
+guardare.
+
+   Swift è contemporaneo e avversario di Newton. Voltaire è un ammiratore di
+Newton, e immagina un gigante, Micromégas, che all’opposto di quelli di Swift, è
+definito non dalla sua corporeità ma da dimensioni espresse in cifre, da
+proprietà spaziali e temporali enunciate nei termini rigorosi e impassibili dei
+trattati scientifici. In virtù di questa logica e di questo stile, Micromégas riesce a
+viaggiare nello spazio da Sirio a Saturno alla Terra. Si direbbe che nelle teorie di
+Newton ciò che colpisce l’immaginazione letteraria non sia il condizionamento
+d’ogni cosa e persona alla fatalità del proprio peso, bensì l’equilibrio delle forze
+che permette ai corpi celesti di librarsi nello spazio.
+   L’immaginazione del secolo XVIII è ricca di figure sospese per aria. Non per
+nulla agli inizi del secolo la traduzione francese delle Mille e una Notte di Antoine
+Galland aveva aperto alla fantasia occidentale gli orizzonti del meraviglioso
+orientale: tappeti volanti, cavalli volanti, geni che escono da lampade.
+   Di questa spinta dell’immaginazione a superare ogni limite, il secolo XVIII
+conoscerà il culmine col volo del Barone di Münchausen su una palla di
+cannone, immagine che nella nostra memoria si è identificata definitivamente
+con l’illustrazione che è il capolavoro di Gustave Doré. Le avventure di
+Münchausen, che come le Mille e una Notte non si sa se abbiano avuto un
+autore, molti autori o nessuno, sono una continua sfida alla legge della
+gravitazione: il Barone è portato in volo dalle anatre, solleva se stesso e il cavallo
+tirandosi su per la coda della parrucca, scende dalla luna tenendosi a una corda
+più volte tagliata e riannodata durante la discesa.
+   Queste immagini della letteratura popolare, insieme a quelle che abbiamo
+visto della letteratura colta, accompagnano la fortuna letteraria delle teorie di
+Newton. Giacomo Leopardi a quindici anni scrive una storia dell’astronomia di
+straordinaria erudizione, in cui tra l’altro compendia le teorie newtoniane. La
+contemplazione del cielo notturno che ispirerà a Leopardi i suoi versi più belli
+non era solo un motivo lirico; quando parlava della luna Leopardi sapeva
+esattamente di cosa parlava.
+   Leopardi, nel suo ininterrotto ragionamento sull’insostenibile peso del vivere,
+dà alla felicità irraggiungibile immagini di leggerezza: gli uccelli, una voce
+femminile che canta da una finestra, la trasparenza dell’aria, e soprattutto la
+luna.
+   La luna, appena s’affaccia nei versi dei poeti, ha avuto sempre il potere di
+comunicare una sensazione di levità, di sospensione, di silenzioso e calmo
+incantesimo. In un primo momento volevo dedicare questa conferenza tutta alla
+luna: seguire le apparizioni della luna nelle letterature d’ogni tempo e paese. Poi
+ho deciso che la luna andava lasciata tutta a Leopardi. Perché il miracolo di
+Leopardi è stato di togliere al linguaggio ogni peso fino a farlo assomigliare alla
+luce lunare. Le numerose apparizioni della luna nelle sue poesie occupano pochi
+versi ma bastano a illuminare tutto il componimento di quella luce o a
+proiettarvi l’ombra della sua assenza.
+
+
+   Dolce e chiara è la notte e senza vento,
+   e queta sovra i tetti e in mezzo agli orti posa la luna,
+   e di lontan rivela serena ogni montagna.
+   (...)
+   O graziosa luna, io mi rammento
+   che, or volge l’anno, sovra questo colle
+   io venia pien d’angoscia a rimirarti:
+   e tu pendevi allor su quella selva
+   siccome or fai, che tutta la rischiari.
+   (...)
+   O cara luna, al cui tranquillo raggio
+   danzan le lepri nelle selve...
+   (...)
+   Già tutta l’aria imbruna,
+   torna azzurro il sereno, e tornan l’ombre
+   giù da’ colli e da’ tetti,
+   al biancheggiar della recente luna.
+   (...)
+   Che fai tu, luna, in ciel? dimmi, che fai,
+   silenziosa luna?
+   Sorgi la sera, e vai,
+   contemplando i deserti; indi ti posi.
+
+
+   Molti fili si sono intrecciati nel mio discorso? Quale filo devo tirare per
+trovarmi tra le mani la conclusione? C’è il filo che collega la Luna, Leopardi,
+Newton, la gravitazione e la levitazione... C’è il filo di Lucrezio, l’atomismo, la
+filosofia dell’amore di Cavalcanti, la magia rinascimentale, Cyrano... Poi c’è il filo
+della scrittura come metafora della sostanza pulviscolare del mondo: già per
+Lucrezio le lettere erano atomi in continuo movimento che con le loro
+permutazioni creavano le parole e i suoni più diversi; idea che fu ripresa da una
+lunga tradizione di pensatori per cui i segreti del mondo erano contenuti nella
+combinatoria dei segni della scrittura: l’Ars Magna di Ramòn Llull, la Kabbala
+dei rabbini spagnoli e quella di Pico della Mirandola... Anche Galileo vedrà
+nell’alfabeto il modello d’ogni combinatoria d’unità minime... Poi Leibniz...
+   Devo imboccare questa strada? Ma la conclusione che mi attende non
+suonerà troppo scontata? La scrittura modello d’ogni processo della realtà...
+anzi, unica realtà conoscibile... anzi, unica realtà tout-court... No, non mi
+metterò su questo binario obbligato che mi porta troppo lontano dall’uso della
+parola come io la intendo, come inseguimento perpetuo delle cose, adeguamento
+alla loro varietà infinita.
+   Resta ancora un filo, quello che avevo cominciato a svolgere all’inizio: la
+letteratura come funzione esistenziale, la ricerca della leggerezza come reazione
+al peso di vivere. Forse anche Lucrezio, anche Ovidio erano mossi da questo
+bisogno: Lucrezio che cercava - o credeva di cercare - l’impassibilità epicurea;
+Ovidio che cercava - o credeva di cercare - la resurrezione in altre vite secondo
+Pitagora.
+   Abituato come sono a considerare la letteratura come ricerca di conoscenza,
+per muovermi sul terreno esistenziale ho bisogno di considerarlo esteso
+all’antropologia, all’etnologia, alla mitologia.
+   Alla precarietà dell’esistenza della tribù, - siccità, malattie, influssi maligni -
+lo sciamano rispondeva annullando il peso del suo corpo, trasportandosi in volo
+in un altro mondo, in un altro livello di percezione, dove poteva trovare le forze
+per modificare la realtà. In secoli e civiltà più vicini a noi, nei villaggi dove la
+donna sopportava il peso più grave d’una vita di costrizioni, le streghe volavano
+di notte sui manici delle scope e anche su veicoli più leggeri come spighe o fili di
+paglia. Prima di essere codificate dagli inquisitori queste visioni hanno fatto
+parte dell’immaginario popolare, o diciamo pure del vissuto. Credo che sia una
+costante antropologica questo nesso tra levitazione desiderata e privazione
+sofferta. È questo dispositivo antropologico che la letteratura perpetua.
+   Prima, la letteratura orale: nelle fiabe il volo in un altro mondo è una
+situazione che si ripete molto spesso. Tra le “funzioni” catalogate da Propp nella
+Morfologia della fiaba esso è uno dei modi del “trasferimento dell’eroe” così
+definito: “Di solito l’oggetto delle ricerche si trova in un “altro” “diverso” reame,
+che può essere situato molto lontano in linea orizzontale o a grande altezza o
+profondità in senso verticale”. Propp passa in seguito a elencare vari esempi del
+caso “L’eroe vola attraverso l’aria”: “a dorso di cavallo o d’uccello, in sembianza
+d’uccello, su una nave volante, su un tappeto volante, sulle spalle d’un gigante o
+d’uno spirito, nella carrozza del diavolo, ecc.”.
+   Non mi pare una forzatura connettere questa funzione sciamanica e
+stregonesca documentata dall’etnologia e dal folklore con l’immaginario
+letterario; al contrario penso che la razionalità più profonda implicita in ogni
+operazione letteraria vada cercata nelle necessità antropologiche a cui essa
+corrisponde.
+   Vorrei chiudere questa conferenza ricordando un racconto di Kafka, Der
+Kübelreiter (Il cavaliere del secchio). È un breve racconto in prima persona,
+scritto nel 1917 e il suo punto di partenza è evidentemente una situazione ben
+reale in quell’inverno di guerra, il più terribile per l’impero austriaco: la
+mancanza di carbone. Il narratore esce col secchio vuoto in cerca di carbone per
+la stufa. Per la strada il secchio gli fa da cavallo, anzi lo solleva all’altezza dei
+primi piani e lo trasporta ondeggiando come sulla groppa d’un cammello.
+   La bottega del carbonaio è sotterranea e il cavaliere del secchio è troppo in
+alto; stenta a farsi intendere dall’uomo che sarebbe pronto ad accontentarlo,
+mentre la moglie non lo vuole sentire. Lui li supplica di dargli una palata del
+carbone più scadente, anche se non può pagare subito. La moglie del carbonaio
+si slega il grembiule e scaccia l’intruso come caccerebbe una mosca. Il secchio è
+così leggero che vola via col suo cavaliere, fino a perdersi oltre le Montagne di
+Ghiaccio.
+   Molti dei racconti brevi di Kafka sono misteriosi e questo lo è
+particolarmente. Forse Kafka voleva solo raccontarci che uscire alla ricerca d’un
+po’ di carbone, in una fredda notte del tempo di guerra, si trasforma in quête di
+cavaliere errante, traversata di carovana nel deserto, volo magico, al semplice
+dondolio del secchio vuoto. Ma l’idea di questo secchio vuoto che ti solleva al di
+sopra del livello dove si trova l’aiuto e anche l’egoismo degli altri, il secchio vuoto
+segno di privazione e desiderio e ricerca, che ti eleva al punto che la tua umile
+preghiera non potrà più essere esaudita, - apre la via a riflessioni senza fine.
+   Avevo parlato dello sciamano e dell’eroe delle fiabe, della privazione sofferta
+che si trasforma in leggerezza e permette di volare nel regno in cui ogni
+mancanza sarà magicamente risarcita. Avevo parlato delle streghe che volavano
+su umili arnesi domestici come può essere un secchio. Ma l’eroe di questo
+racconto di Kafka, non sembra dotato di poteri sciamanici né stregoneschi; né il
+regno al di là delle Montagne di Ghiaccio sembra quello in cui il secchio vuoto
+troverà di che riempirsi. Tanto più che se fosse pieno non permetterebbe di
+volare. Così, a cavallo del nostro secchio, ci affacceremo al nuovo millennio,
+senza sperare di trovarvi nulla di più di quello che saremo capaci di portarvi. La
+leggerezza, per esempio, le cui virtù questa conferenza ha cercato d’illustrare.
+""" .
+

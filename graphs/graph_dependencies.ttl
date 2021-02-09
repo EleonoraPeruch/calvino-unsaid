@@ -1,0 +1,465 @@
+@prefix ns1: <http://fginter.github.io/docs/u/dep/all.html#al-u-dep/> .
+
+"Guido" ns1:appos "tu" .
+
+"Homme" ns1:punct "?" .
+
+"Lascio" ns1:obl "voi" .
+
+"Mille" ns1:case "come" .
+
+"Ovidio" ns1:case "come" .
+
+"Perseo" ns1:case "come" ;
+    ns1:mark "per" .
+
+"Va" ns1:nsubj "tu" .
+
+"accompagnasse" ns1:expl "ci" .
+
+"accorgiamo" ns1:nsubj "noi" .
+
+"adornarsi" ns1:mark "per" .
+
+"affacceremo" ns1:iobj "ci" .
+
+"affonda" ns1:nsubj "che" .
+
+"aggiungiamo" ns1:nsubj "noi" .
+
+"agisce" ns1:nsubj "che" .
+
+"aleggia" ns1:nsubj "che" .
+
+"allor" ns1:nsubj "tu" .
+
+"allungarsi" ns1:nsubj "che" .
+
+"antropologica" ns1:mark "che" .
+
+"apre" ns1:cc "Ma" ;
+    ns1:nsubj "che" .
+
+"assume" ns1:nsubj "che" .
+
+"attende" ns1:iobj "mi" ;
+    ns1:nsubj "che" .
+
+"attrae" ns1:expl "mi" .
+
+"automa" ns1:case "come" .
+
+"avrai" ns1:nsubj "tu" .
+
+"avverte" ns1:obj "ci" .
+
+"avvolgere" ns1:mark "per" .
+
+"basta" ns1:cc "Ma" .
+
+"bits" ns1:case "come" .
+
+"cala" ns1:nsubj "che" .
+
+"campionario" ns1:case "come" .
+
+"campo" ns1:case "come" .
+
+"canta" ns1:nsubj "che" .
+
+"cavallo" ns1:nmod "secchio" .
+
+"cercare" ns1:mark "per" .
+
+"cercata" ns1:mark "che" .
+
+"cerchi" ns1:mark "che" ;
+    ns1:nsubj "io" .
+
+"cerco" ns1:nsubj "io" .
+
+"cimitero" ns1:case "come" .
+
+"civiltà" ns1:nmod "noi" .
+
+"ciò" ns1:case "come" .
+
+"collega" ns1:nsubj "che" .
+
+"colpisce" ns1:iobj "ci" ;
+    ns1:mark "che" ;
+    ns1:nsubj "che" .
+
+"colui" ns1:case "come" .
+
+"cominciato" ns1:nsubj "che" .
+
+"componga" ns1:mark "che" .
+
+"comunica" ns1:nsubj "che" .
+
+"condizione" ns1:nmod "noi" .
+
+"consideri" ns1:nsubj "io" .
+
+"contiene" ns1:mark "che" .
+
+"contraddistinto" ns1:nsubj "che" .
+
+"corre" ns1:nsubj "che" .
+
+"corrisponda" ns1:nsubj "che" .
+
+"costava" ns1:iobj "mi" .
+
+"crea" ns1:nsubj "che" .
+
+"culmine" ns1:nmod "volo" .
+
+"dedicato" ns1:mark "che" .
+
+"definito" ns1:nsubj "che" .
+
+"depone" ns1:iobj "vi" .
+
+"deserto" ns1:appos "volo" .
+
+"dessein" ns1:advmod "au" .
+
+"determina" ns1:nsubj "che" .
+
+"detto" ns1:nsubj "che" .
+
+"dice" ns1:iobj "ci" .
+
+"dimentichiamo" ns1:nsubj "filo" .
+
+"dimmi" ns1:conj "luna" ;
+    ns1:punct "?" .
+
+"dimostrando" ns1:nsubj "salto" .
+
+"dirmi" ns1:nsubj "mito" .
+
+"discendere" ns1:mark "per" .
+
+"diventando" ns1:mark "che" .
+
+"dondolio" ns1:nmod "secchio" .
+
+"donna" ns1:case "come" .
+
+"dà" ns1:mark "che" .
+
+"eleva" ns1:expl "ti" .
+
+"emblemi" ns1:case "come" .
+
+"esaudita" ns1:mark "che" .
+
+"esca" ns1:nsubj "che" .
+
+"esemplificare" ns1:mark "per" .
+
+"esiste" ns1:mark "che" ;
+    ns1:nsubj "che" .
+
+"evoca" ns1:nsubj "che" .
+
+"fa" ns1:nsubj "che" .
+
+"fai" ns1:iobj "mi" ;
+    ns1:obj "tu" ;
+    ns1:punct "?" .
+
+"fallait" ns1:punct "?" .
+
+"far" ns1:mark "per" .
+
+"fardello" ns1:case "come" .
+
+"farà" ns1:mark "che" .
+
+"fatta" ns1:mark "che" .
+
+"fatto" ns1:punct "?" .
+
+"ferma" ns1:cc "Ma" .
+
+"fermata" ns1:mark "che" .
+
+"filosofo" ns1:case "come" .
+
+"finisce" ns1:nsubj "che" .
+
+"fonda" ns1:nsubj "che" .
+
+"forte" ns1:obl "me" .
+
+"ha" ns1:nsubj "che" .
+
+"ho" ns1:nsubj "Abituato" .
+
+"idea" ns1:appos "secchio" .
+
+"identificata" ns1:nsubj "che" .
+
+"illustrare" ns1:mark "per" .
+
+"imbeve" ns1:nsubj "che" .
+
+"imboccare" ns1:punct "?" .
+
+"imparato" ns1:nsubj "che" .
+
+"impoverisce" ns1:mark "che" .
+
+"infilza" ns1:nsubj "che" .
+
+"innamorato" ns1:nsubj:pass "Tu" .
+
+"inseguendo" ns1:mark "che" .
+
+"inseguimento" ns1:case "come" .
+
+"intendo" ns1:nsubj "cosa" .
+
+"interessa" ns1:expl "ci" ;
+    ns1:nsubj "che" .
+
+"intrecciati" ns1:punct "?" .
+
+"ispirerà" ns1:nsubj "che" .
+
+"leggerezza" ns1:nmod "me" .
+
+"leggero" ns1:nsubj "secchio" .
+
+"legittimo" ns1:punct "?" .
+
+"libera" ns1:nsubj "che" ;
+    ns1:obl "salto" .
+
+"materia" ns1:case "come" .
+
+"meglio" ns1:obl "me" .
+
+"meravigliate" ns1:iobj "Vi" .
+
+"meritare" ns1:mark "per" .
+
+"meriterebbe" ns1:nsubj "che" .
+
+"messaggi" ns1:case "come" .
+
+"metafora" ns1:case "come" .
+
+"mette" ns1:obj "io" .
+
+"miracolo" ns1:cc "Ma" .
+
+"misura" ns1:mark "che" .
+
+"modificare" ns1:mark "per" .
+
+"muove" ns1:nsubj "che" .
+
+"neve" ns1:case "come" .
+
+"ognuno" ns1:nmod "noi" .
+
+"organizzato" ns1:mark "che" .
+
+"paiono" ns1:obj "mi" .
+
+"pare" ns1:iobj "mi" .
+
+"parlerò" ns1:iobj "vi" .
+
+"parola" ns1:cc "Ma" .
+
+"passeggia" ns1:nsubj "che" .
+
+"pensa" ns1:mark "che" .
+
+"penso" ns1:mark "che" ;
+    ns1:nsubj "sfondo" .
+
+"permette" ns1:nsubj "che" .
+
+"permetterebbe" ns1:mark "che" .
+
+"pesante" ns1:case "come" .
+
+"piace" ns1:iobj "vi" ;
+    ns1:nsubj "che" .
+
+"poesia" ns1:case "come" .
+
+"porta" ns1:nsubj "che" .
+
+"posi" ns1:iobj "ti" .
+
+"precursore" ns1:case "come" .
+
+"prese" ns1:obj "salto" .
+
+"presenta" ns1:nsubj "che" .
+
+"prima" ns1:case "come" .
+
+"progettare" ns1:mark "per" .
+
+"proietto" ns1:case "come" .
+
+"qualcosa" ns1:cc "Ma" .
+
+"raccontarci" ns1:nsubj "Kafka" .
+
+"racconto" ns1:cc "Ma" .
+
+"rammento" ns1:nsubj "io" .
+
+"rappresentata" ns1:mark "che" .
+
+"realtà" ns1:case "come" .
+
+"reazione" ns1:case "come" .
+
+"regge" ns1:mark "che" .
+
+"renderci" ns1:mark "che" .
+
+"riannodarsi" ns1:mark "che" .
+
+"ricerca" ns1:case "come" .
+
+"riesce" ns1:nsubj "che" .
+
+"ripete" ns1:nsubj "che" .
+
+"ripresa" ns1:mark "che" .
+
+"riuscire" ns1:mark "per" .
+
+"rivolge" ns1:nsubj "che" .
+
+"rosa" ns1:nsubj "io" .
+
+"sa" ns1:nsubj "che" .
+
+"salire" ns1:mark "per" ;
+    ns1:obl "luna" .
+
+"sappiamo" ns1:nsubj "tutti" .
+
+"scegliamo" ns1:nsubj "che" .
+
+"schiacci" ns1:iobj "ci" ;
+    ns1:mark "che" .
+
+"sciuparlo" ns1:nsubj "che" .
+
+"scrivendo" ns1:nsubj "che" .
+
+"scrivo" ns1:nsubj "che" .
+
+"seguace" ns1:mark "che" .
+
+"segue" ns1:nsubj "che" .
+
+"sembra" ns1:iobj "Mi",
+        "mi" .
+
+"sembrava" ns1:iobj "mi" .
+
+"servito" ns1:iobj "Mi" .
+
+"sia" ns1:mark "che" .
+
+"sien" ns1:nsubj "che" .
+
+"simile" ns1:case "come" .
+
+"situazione" ns1:nsubj "volo" .
+
+"siàn" ns1:nsubj "Noi" .
+
+"so" ns1:cc "Ma" .
+
+"sofferenza" ns1:case "come" .
+
+"sogni" ns1:case "come" .
+
+"sopraffarlo" ns1:mark "per" .
+
+"sostanza" ns1:nsubj "noi" .
+
+"sostenere" ns1:mark "per" .
+
+"sperare" ns1:cc "Ma" ;
+    ns1:punct "?" .
+
+"spighe" ns1:case "come" .
+
+"spingeva" ns1:obj "mi" .
+
+"spostano" ns1:nsubj "che" .
+
+"sprofondato" ns1:iobj "mi" .
+
+"sprofondo" ns1:nsubj "io" .
+
+"sta" ns1:nsubj "che" .
+
+"stimola" ns1:nsubj "che" .
+
+"strapparsi" ns1:mark "per" .
+
+"succede" ns1:iobj "mi" .
+
+"suonerà" ns1:cc "Ma" ;
+    ns1:punct "?" .
+
+"tagliato" ns1:mark "per" .
+
+"tirare" ns1:punct "?" .
+
+"trasforma" ns1:nsubj "che" .
+
+"trasportandosi" ns1:obl "volo" .
+
+"travels" ns1:nmod "my" .
+
+"troviamo" ns1:nsubj "scrittore" .
+
+"uccelli" ns1:conj "luna" .
+
+"usa" ns1:nsubj "che" .
+
+"uso" ns1:nmod "io" .
+
+"vederne" ns1:nsubj "io" .
+
+"vediamo" ns1:nsubj "che" .
+
+"venia" ns1:nsubj "io" .
+
+"viene" ns1:mark "che" .
+
+"vola" ns1:mark "che" .
+
+"volteggia" ns1:nsubj "che" .
+
+"vorremmo" ns1:nsubj "passo" .
+
+"è" ns1:nsubj "che" .
+
+"me" ns1:conj "voi" .
+
+"luna" ns1:ROOT "luna" .
+
+"tu" ns1:conj "io",
+        "luna" ;
+    ns1:nmod "me" .
+
