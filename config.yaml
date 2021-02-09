@@ -1,0 +1,31 @@
+lecture: "la_leggerezza"
+
+input_text: "texts/la_leggerezza.txt"
+
+xml_filename: "leggerezza.xml"
+ 
+xsl_filename: "leggerezza.xsl"
+
+html_filename: "leggerezza.html"
+
+db_dataset: "texts/dbpedia_dataset.ttl"
+sa_dataset: "texts/short_abstracts.ttl"
+la_dataset: "texts/long_abstracts.ttl"
+
+bk_graph: "graphs/graph_bk.ttl"
+
+dep_graph: "graphs/graph_dependencies.ttl"
+
+nif_graph: "graphs/graph_ann_final.ttl"
+
+tagme_token: "45be3d7d-dc87-4d02-b8fb-5de722a99379-843339462"
+
+keywords: 
+  - "luna"
+  - "volo"
+  - "salto"
+  - "secchio"
+
+keywords_regex: r"immagin\w+"
+
+pynif_python_path: "~/revisione_tesi/pynif"
