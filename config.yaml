@@ -2,11 +2,11 @@ lecture: "la_leggerezza"
 
 input_text: "texts/la_leggerezza.txt"
 
-xml_filename: "leggerezza.xml"
+xml_filename: "viz_files/leggerezza.xml"
  
-xsl_filename: "leggerezza.xsl"
+xsl_filename: "viz_files/leggerezza.xsl"
 
-html_filename: "leggerezza.html"
+html_filename: "viz_files/leggerezza.html"
 
 db_dataset: "texts/dbpedia_dataset.ttl"
 sa_dataset: "texts/short_abstracts.ttl"
