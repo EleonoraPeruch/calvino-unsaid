@@ -86,7 +86,8 @@ if rank == 0:
 
 #no parallelisation
 
-""" dspacy = doc_nlp(param)
+"""
+dspacy = doc_nlp(param)
 text_ents = ents_nlp(dspacy)
 text_seg = read_txt(dspacy)
 
@@ -106,5 +107,5 @@ dep_nif = dep_to_nif(all_dep, ctx)
 nif_encoding_rdf = nif_to_rdf(param, collection)
 
 xml_encoding = text_to_xml(param)
-html_encoding = xml_to_html(xml_encoding, param) """
+html_encoding = xml_to_html(xml_encoding, param)
 """
